@@ -153,14 +153,6 @@ if status == "generate":
 
     A student should be able to read these notes quickly and still answer most exam questions.
 
-    # End of each topic
-
-    Add:
-
-    ### ✅ Key Takeaways
-
-    with only 3-5 bullets.
-
     # Style
 
     Formal.
@@ -168,6 +160,8 @@ if status == "generate":
     Easy to revise.
     Easy to scan.
     Professional.
+
+    DO NOT exceed 5000 words.
 
     Return ONLY the Markdown document.
 
@@ -200,8 +194,8 @@ if status == "generate":
 
     st.markdown(result)
 
-else:
-    file_path = "results/summary_2026-07-21_01-45-40.md"
+elif status == "read":
+    file_path = "results/summary_2026-07-21_02-43-05.md"
 
     with open(file_path, "r", encoding="utf-8") as f:
         md = f.read()
