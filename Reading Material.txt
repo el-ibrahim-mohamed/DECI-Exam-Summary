@@ -1,0 +1,3988 @@
+Week 11:
+L1:
+🌐
+Level 2
+Topic 1
+Living in a Digital World
+By the end of this topic, the learner should be able to:
+
+Define digital transformation and describe how everyday services have moved from manual processes to digital ones.
+Explain what a connected system is and trace how devices exchange information over the internet.
+Identify what a digital asset is and recognise common examples of personal digital assets.
+Distinguish between personal data and organizational data and justify why each must be protected.
+What Does “Digital World” Mean?
+
+
+A digital world is a society where people, organizations, and services use computers, networks, and the internet to communicate, work, learn, and access information.(1)
+
+Digital Transformation
+Digital Transformation means businesses and people are changing how they do things using technology. Instead of old ways, they use computers and the internet(2)
+Examples
+Schools: Previously, teachers wrote on chalkboards, and students used printed textbooks. Now, many schools use Google Classroom, online learning platforms, and digital homework instead.
+Banks: Previously, go to the bank, talk to tellers, get cash. Now, Mobile apps, online transfers, ATMs, digital wallets
+Shopping: Previously, go to the store, talk to the cashier. Now, Amazon, online shopping, home delivery
+Healthcare: Previously, Paper patient records. Now, digital health records, telemedicine (doctor visits by video)
+Why does it matter?
+Everything is becoming digital. Learning to work with technology is essential for any career
+
+Connected Systems
+What is it?
+Connected systems are devices and services that work together through the internet. They talk to each other and share information automatically(3)
+Examples
+Smart Home: your phone controls lights, temperature, door locks, devices talk to each other
+Your Phone: Connects to WiFi, cellular network, social media, email, all connected at once, share photos instantly to cloud storage
+Modern Cars: GPS for navigation, bluetooth for phone calls, connected to manufacturer for updates and diagnostics
+Smartwatch: Connects to phone, Tracks your fitness, sends your notifications
+When devices connect, they can do more together than alone, but more connected devices can increase security risks, so it is important to use strong passwords and keep systems updated(4)
+Digital Assets
+What is it?
+Digital assets are things of value that exist only online. You can’t hold them, but they are worth real money or important to you(1)
+Types of Digital Assets
+Personal Digital Assets: photos and videos you’ve taken, messages and emails, social media accounts (Instagram, TikTok, Discord), games and in-game items, cryptocurrency/digital money, documents you’ve created
+Business Digital Assets: Company database and customer information, software and apps, websites, brand and logo designs, business plans and strategies, employee records
+Gaming Digital Assets: Game accounts, virtual items and skins, virtual rewards/items
+Why to Protect them?
+If hackers steal your social media, they can impersonate you
+
+If they steal company data, the business loses money
+
+Your digital assets are worth protecting just like physical property(1)
+
+Gaming account with rare items worth $500, Hacker steals account, Account is gone forever, Loss of $500
+
+Personal and Organizational Data
+What is Data?
+Data is information about people and organizations, it can be(2)
+
+Numbers (age, salary, grades)
+Text (names, addresses, passwords)
+Images (photos, fingerprints)
+Videos
+Location information
+Personal Data (Your Information)
+Identifying Information: Name, age, date of birth, phone number email address, home address social security number
+Behavioral Data: What websites you visit, what you search for, what videos you watch, where you go (location), What you buy
+Health Data: Doctor visits, medications, allergies, mental health information
+Financial Data: Bank account numbers, credit card numbers, salary information, loan information
+Organizational Data (Business Information)
+Customer Information and purchase history, employee records and payroll, financial reports, business secrets and strategies, product designs(5)
+Why does it matter?
+Business use your data to: improve services, personalize user experiences, protect against fraud, and understand customer needs
+Hackers steal data to: commit identity theft (pretend to be you), commit fraud (use your credit card), sell to criminals, blackmail people, disrupt businesses
+How to protect your data
+Use strong passwords
+Don’t share personal information online
+Be careful what you post on social media
+Don’t click suspicious links
+Keep software updated(4)
+Concept	What it is	Example
+Digital Transformation	Changing to use technology instead of old ways	School using Google Classroom instead of textbooks
+Connected Systems	Devices that work together through internet	Smart home with phone controlling lights
+Digital Assets	Valuable things that exist only online	Your social media account
+Personal Data	Information about you	Your phone number, photos, location
+Organizational Data	Business information	Customer database, employee records
+🔗
+(1)Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L2:
+🛡️
+Level 2
+Topic 2
+What is Cybersecurity
+By the end of this topic, the learner should be able to:
+
+State a clear definition of cybersecurity and explain the meaning of its two parts.
+Describe the three goals that every protection system aims to achieve.
+Explain why protection depends on people, processes, and technology together.
+Distinguish cybersecurity from information security and describe how the two are related.
+Cybersecurity is the practice of protecting computers, networks, and data from being stolen, damaged, or misused by hackers and cybercriminals.
+
+
+Think of it like this:
+Your home has locks on doors and windows = Physical security
+Your computer needs protection from hackers = Cybersecurity
+What Cybersecurity Protects:
+Your personal information (passwords, photos, messages)
+Business data (customer records, financial information)
+Critical infrastructure (hospitals, power plants, banks)
+Devices (computers, phones, tablets, smart devices)
+Real-World Example: A hacker tries to steal your gaming account. Cybersecurity protects you by:
+
+Checking your password is strong
+Using two-factor authentication (extra verification step)
+Monitoring for suspicious login attempts
+Alerting you if something unusual happens
+
+What are Security Goals? Security goals are the three main things cybersecurity tries to accomplish.
+
+Goal 1: Confidentiality - Keep Secrets Secret
+What it means: Only people who should have access to information can see it. Everyone else is blocked from viewing it.
+
+Real Examples:
+Medical Records:
+
+Your doctor can see your health information
+Your friends cannot see it
+Random hackers definitely cannot see it
+How to Protect Confidentiality:
+Use passwords
+Use encryption (turning information into code)
+Use privacy settings
+Only share information with people who need to know
+Goal 2: Integrity - Keep Information Accurate
+What it means: Information cannot be changed or corrupted without permission. What you see is exactly what was intended.
+
+Real Examples:
+Medicine Dosage:
+
+Doctor prescribes 10mg of medicine
+Hacker changes it to 100mg
+Patient gets harmed because information changed
+How to Protect Integrity:
+Use digital signatures (proof that something wasn't changed)
+Use checksums (mathematical checks)
+Keep backups of important files
+Verify information hasn't been altered
+Goal 3: Availability - Keep Systems Running
+What it means: Systems and information must work when you need them. They shouldn't be down or unavailable.
+
+Real Examples:
+Hospital Systems:
+
+Doctors need patient records to help patients
+If system is down, they can't get information
+Critical for patient safety
+How to Protect Availability:
+Keep systems updated and working
+Have backup systems ready
+Backup important data
+Prevent attacks that shut systems down
+
+What does this mean? Security isn't just about technology. You also need to protect the people who use it and the processes they follow.
+
+1. Protecting People
+The Problem: People are often the weakest link to security. Humans make mistakes, fall for tricks, and can be careless.
+
+Common Mistakes People Make:
+Using weak passwords like "password123"
+Clicking suspicious links in emails
+Opening attachments from unknown senders
+Sharing passwords with friends
+Using public WiFi without protection
+Downloading files from untrusted sources
+How to Protect People:
+Train people on cybersecurity
+Teach them to recognize phishing emails (fake emails trying to trick you)
+Make them aware of social engineering (manipulating people to give information)
+Create a culture where everyone cares about security
+Report suspicious activity
+2. Protecting Processes
+What are the Processes? Processes are the steps and procedures people follow to keep systems secure.
+
+Examples of Security Processes:
+Password Management Process:
+
+Create strong passwords
+Change passwords regularly
+Never write passwords down
+Use different passwords for different accounts
+Access Control Process:
+
+Only give people access they need for their job
+Remove access when people leave
+Check regularly that access is still appropriate
+Get approval before giving access
+Incident Response Process:
+
+If a breach happens, follow specific steps
+Contact the incident response team
+Isolate affected systems
+Investigate what happened
+Tell affected people
+How to Protect Through Processes:
+Document procedures clearly
+Train people on the procedures
+Check that procedures are being followed
+Update procedures when things change
+Practice the procedures regularly
+3. Protecting Technology
+What is Technology Protection? Using technical tools and systems to defend against hackers and malware.
+
+Examples of Technology Protection:
+Firewalls:
+
+Control what information enters and leaves your network
+Like a bouncer at a club - only lets good traffic through
+Antivirus Software:
+
+Scans for malware and viruses
+Removes them if found
+Encryption:
+
+Turns information into code so hackers can't read it
+Even if they steal it, they can't understand it
+Two-Factor Authentication:
+
+Need two different proofs you're you (password + phone code)
+Much harder for hackers to break through
+Backups:
+
+Copy of all important data stored separately
+If system is hacked, you still have the original data
+Why All Three Matter Together:
+Imagine a bank:
+
+Technology: Has strong firewalls and encryption
+Process: Has access controls and procedures
+People: Employees trained on security
+If anyone is missing:
+
+No people training: Employee falls for phishing, hacker gets in
+No good processes: Anyone can access customer data
+No good technology: Hacker breaks through the firewall
+You need all three to work together!
+
+Are They the Same Thing? Not exactly! They're related but different.
+
+Information Security (Broader)
+Definition: Protecting ALL information - digital and physical - from being stolen, damaged, or misused.
+
+What it includes:
+Digital information (emails, databases, files)
+Physical information (paper documents, printed files)
+Keeping information accurate
+Keeping information available
+Managing all types of information risks
+Real Examples:
+Locking filing cabinets with important documents
+Keeping background checks confidential
+Shredding old documents before throwing away
+Cybersecurity (Narrower)
+Definition: Protecting specifically DIGITAL systems, networks, and data from cyber-attacks and online threats.
+
+What it includes:
+Protecting against hackers
+Protecting against malware and viruses
+Defending against online attacks
+Securing digital devices and systems
+Protecting digital data
+Real Examples:
+Using firewalls to block hackers
+Installing antivirus software
+Using strong passwords
+Comparison:
+
+Key Difference:
+Information Security = Protecting ALL types of information Cybersecurity = Protecting DIGITAL information from cyber attacks
+
+
+Concept	Definition	Example
+Cybersecurity	Protecting digital systems from hackers	Using passwords and antivirus software
+Confidentiality	Keep information secret	Only you see your personal photos
+Integrity	Keep information accurate	Bank balance shows correct amount
+Availability	Keep systems working	Website is accessible when you need it
+Protecting People	Train people on security	Teaching staff to spot phishing emails
+Protecting Processes	Follow security procedures	Change passwords every 90 days
+Protecting Technology	Use security tools	Install firewalls and antivirus
+Information Security	Protect all information types	Digital and physical protection
+Cybersecurity	Protect digital systems only	Protection against online attacks
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L3:
+⚠️
+Level 2
+Topic 3
+Why Cybersecurity Matters
+By the end of this topic, the learner should be able to:
+
+Explain the financial impact that cyber-attacks have on individuals and organizations.
+Describe how weak protection threatens personal privacy.
+Define business continuity and explain why it depends on cybersecurity.
+Explain the connection between cybersecurity and national security.
+Recognize that real-world incidents demonstrate these risks in practice.
+
+Before we explain the details, here's the simple answer: Cybersecurity affects money, privacy, safety, and national security. Without it, bad things happen.
+
+
+1. Financial Impact
+What does this mean? Cybersecurity breaches cost organizations and individuals a lot of money. It's not just about stolen money - it's about damage, recovery, and lost business.
+
+
+The Real Costs of a Breach:
+Direct Costs (Money that's immediately lost):
+Paying the Hackers:
+
+Ransomware gangs encrypt your files and demand payment
+Companies might pay $100,000 to $10,000,000+ to get their data back
+Fixing the Problem:
+
+Hiring experts to clean infected computers
+Rebuilding systems
+Replacing damaged equipment
+Getting forensic analysis done
+Notifying People:
+
+Sending letters to affected customers
+Paying for credit monitoring services
+Legal fees for lawsuits
+Fines from Government:
+
+Governments punish companies for not protecting data
+Fines can be millions of dollars
+Indirect Costs (Money lost over time):
+Lost Business:
+
+Customers don't trust the company anymore
+Business moves to competitors
+Can lose millions in future revenue
+Reputation Damage:
+
+News headlines: "Company Gets Hacked"
+People remember the breach for years
+Stock price drops
+Investors lose confidence
+Employee Disruption:
+
+Workers can't do their jobs during breach
+Productivity drops
+Morale goes down
+
+What does this mean? When cybersecurity fails, your personal private information gets exposed to criminals. This can destroy your life.
+
+Types of Personal Information at Risk:
+Identification Information:
+Full name
+Date of birth
+Home address
+Social Security number
+Driver's license number
+If This Gets Stolen:
+
+Criminals can pretend to be you
+Apply for credit cards in your name
+Take out loans in your name
+Ruin your credit score
+Social Media and Personal Information:
+Browsing history
+Location information
+Photos and videos
+Messages and conversations
+If This Gets Stolen:
+
+Stalkers can find you
+Criminals can target you
+Embarrassing information becomes public
+Your reputation is damaged
+Identity Theft - The Real Consequence:
+Real Scenario:
+
+Hacker steals your Social Security number and date of birth
+Hacker applies for credit card in your name
+Gets approved and makes $10,000 in charges
+Doesn't pay the bill
+YOU get stuck with the debt
+Your credit score is destroyed
+Takes years to fix
+
+What does this mean? When a cyber-attack happens, businesses can't operate normally. This can shut them down temporarily or permanently.
+
+How Attacks Disrupt Business:
+System Downtime:
+Hospital System Goes Down:
+
+Doctors can't access patient medical records
+Can't see what medicines patients are allergic to
+Can't see previous diagnoses
+Patients don't get proper care
+Lives could be endangered
+Airline System Goes Down:
+
+Can't book flights
+Can't check passengers in
+Can't take off
+Thousands of passengers stranded
+Millions in lost revenue per hour
+Data Loss:
+Ransomware Attack on Manufacturing Plant:
+
+All files encrypted (locked)
+Can't access designs or product information
+Can't manufacture products
+Production lines shut down
+Lose $50,000+ per hour
+Cost of Downtime:
+Different industries lose different amounts per hour:
+
+Financial services: $5,600+ per minute
+Retail: $1,000+ per minute
+Media: $100,000+ per hour
+Manufacturing: Thousands to millions per hour
+Real World Example - Colonial Pipeline (2021):
+What Happened:
+
+Ransomware attack shut down major fuel pipeline
+Supplied gas to eastern United States
+Pipeline couldn't operate
+Results:
+
+Company paid $4.4 million ransom
+Gas stations ran out of fuel
+People couldn't get gas for cars
+National emergency
+Showed how vulnerable critical infrastructure is
+What does this mean? Cyber attacks don't just hurt businesses - they can hurt entire countries and affect national defense.
+
+
+Critical Infrastructure at Risk:
+Power Grid:
+Supplies electricity to homes, hospitals, businesses
+If attacked: Millions without power
+Hospitals lose power
+Water treatment stops
+Communication systems fail
+People could die in winter without heat
+Water Systems:
+Provides clean drinking water
+If attacked: Hackers could poison water supply
+People get sick
+Public health emergency
+Transportation:
+Airplanes rely on computer systems
+Cars increasingly connected to internet
+If attacked: Traffic accidents, plane crashes
+Thousands could die
+Attacks by Other Countries:
+Countries like Russia, China, and North Korea have cyber capabilities. They use them for:
+
+Espionage (Stealing Secrets):
+Stealing military secrets
+Stealing government plans
+Stealing research
+Understanding military capabilities
+Sabotage (Breaking Things):
+Disabling power plants
+Disrupting supply chains
+Damaging critical infrastructure
+Harming civilian infrastructure
+Election Interference:
+Hacking voting systems
+Spreading false information
+Influencing election results
+Undermining democracy
+Economic Damage:
+Stealing trade secrets
+Disrupting business
+What are these? Real cyber-attacks that happened, showing the real-world consequences.
+
+
+Major Data Breaches:
+Yahoo Data Breaches (2013-2014):
+What Happened:
+
+Largest breaches in history
+3 billion Yahoo user accounts compromised
+Data Stolen:
+
+Usernames and passwords
+Phone numbers
+Security questions and answers
+Impact:
+
+Yahoo's reputation destroyed
+Valuation dropped dramatically
+Users couldn't trust their account safety
+Passwords reused on other sites compromised too
+Ransomware Attacks:
+WannaCry (2017) - Global Ransomware:
+What Happened:
+
+Ransomware spread to 200+ countries
+Affected hundreds of thousands of computers
+Systems Hit:
+
+Hospitals (emergency rooms shut down, surgeries cancelled)
+Banks
+Government agencies
+Manufacturing plants
+Estimated $10+ billion in losses globally
+Impact:
+
+People couldn't get medical treatment
+Showed how vulnerable systems are
+Hospitals had to turn away patients
+Hospital Ransomware Attack Example:
+Real Scenario - 2021 Hospital Attack:
+
+Ransomware infects hospital network
+All patient files encrypted
+Doctors can't access patient records
+Emergency surgeries cancelled
+Patients transferred to other hospitals
+Hospital loses $1 million+ per day
+Hackers demand $500,000 ransom
+Hospital pays to restore operations
+Patients harmed by delays in care
+Why Do Breaches Keep Happening?
+
+Not Updating Software:
+Companies don't patch vulnerabilities quickly
+Hackers exploit known weaknesses
+Solution: Update systems regularly
+Weak Passwords:
+Employees use simple passwords
+Hackers guess or crack them
+Solution: Use strong, unique passwords
+Phishing Emails:
+Employees click suspicious emails
+Malware gets installed
+Hacker gets initial access
+Solution: Train people to spot phishing
+Lack of Monitoring:
+Breaches go undetected for months
+Hackers steal more data over time
+Solution: Monitor systems for suspicious activity
+Poor Access Control:
+Too many people have access to sensitive data
+When one person compromised, attacker has wide access
+Solution: Use principle of least privilege
+Impact Type	What Happens	Cost/ Consequence
+Financial	Systems attacked, operations disrupted	Millions in recovery costs + lost business
+Privacy	Personal information stolen	Identity theft, fraud, blackmail
+Business Continuity	Can't operate normally	Lost revenue, damaged reputation
+National Security	Critical infrastructure attacked	Potential deaths, economic damage
+Real Incidents	Actual breaches happen regularly	Billions lost globally each year
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+
+---
+L4:
+🔐
+Level 2
+Topic 4
+Core Security Principles: The CIA Triad
+By the end of this topic, the learner should be able to:
+
+Define confidentiality and give an example of how it is maintained and how it can be broken.
+Define integrity and explain what it means for information to remain unaltered.
+Define availability and explain why information must be accessible when needed.
+Explain why the three principles are studied together as a single triad.
+
+The CIA Triad is the three most important rules of cybersecurity. CIA stands for:
+Confidentiality
+Integrity
+Availability
+These three principles work together like the three legs of a stool. If one breaks, the whole security system fails.(1)
+
+
+Every security decision in cybersecurity is based on protecting one or more of these three principles.(1)
+
+
+Confidentiality means keeping information private and secret. Only people who are supposed to see it can see it. Everyone else is blocked.(1)
+
+Why Confidentiality Matters:
+What Needs to Be Kept Confidential:
+Your Personal Information:
+
+Passwords and PIN numbers
+Social Security number
+Medical records
+Financial account numbers
+Private messages and emails
+Photos you don't want shared
+Business Information:
+
+Customer databases
+Trade secrets and formulas
+Financial records
+Strategic plans
+Employee salaries
+Research and development projects
+Real Examples of Confidentiality:
+Medical Records:
+Hospital Setting:
+
+Your doctor can see your medical history
+Nurses caring for you can see relevant information
+Random person walking by cannot access it
+This is confidentiality protected
+If Confidentiality Fails:
+
+Hacker steals your medical records
+Finds out you have a mental health condition
+Sells information to employers
+Employer discriminates against you
+Your private medical information is now public
+How to Protect Confidentiality:
+Use Passwords:
+Create strong, unique passwords
+Don't share passwords with others
+Change passwords if you think they're compromised
+Use different passwords for different accounts
+Encryption:
+Turns information into secret code
+Only person with the key can read it
+Even if hacker steals it, they can't read it
+Example:
+
+Original message: "My password is SecurePass123"
+Encrypted: "kJ#9mL@2pQ$5vX8wR"
+Hacker sees "kJ#9mL@2pQ$5vX8wR" - can't understand it
+Privacy Settings:
+Set social media to private
+Control who can see your information
+Don't share sensitive information publicly
+Be careful what you post online
+Access Control:
+Limit who can see information
+Give access only to people who need it for their job
+Remove access when people leave
+Secure Communication:
+Use encrypted messaging apps
+Avoid sending sensitive info on unsecured WiFi
+Use HTTPS websites (notice the "S" in https)
+
+Integrity means information stays accurate and hasn't been changed or corrupted. What you see is exactly what it's supposed to be.(2)
+
+Why Integrity Matters:
+What Needs Integrity Protection:
+Medical Records:
+
+Doctor prescribes 10mg of medicine
+Must stay 10mg in the system
+If hacker changes to 100mg, patient gets harmed
+Real Examples of Integrity Failures:
+Hospital Drug Dosage:
+Scenario:
+
+Doctor prescribes 50mg of pain medication
+Hacker breaks into hospital system
+Changes prescription to 500mg
+Nurse follows the system (doesn't know it's changed)
+Patient gets 10x the intended dose
+Patient suffers serious harm or dies
+Integrity failure causes real-world harm
+Financial Transaction:
+Scenario:
+
+You transfer $100 to a friend
+Hacker intercepts the transaction
+Changes amount to $1,000
+Your account loses $1,000 instead of $100
+Friend receives $1,000 instead of $100
+Financial records are now wrong
+Integrity failure causes financial fraud
+College Application:
+Scenario:
+
+Student's SAT scores recorded as 1500 (perfect)
+Hacker breaks in and changes to 600
+School sees low score
+Student doesn't get accepted
+Integrity failure ruins student's future
+How to Protect Integrity:
+Digital Signatures:
+Proof that information came from the right person
+Proves it hasn't been changed
+Works like a fingerprint for documents
+Checksums:
+Mathematical calculation of data
+If data changes even slightly, checksum changes
+Can detect if data was altered
+Backups:
+Keep copies of important data
+If data is corrupted, restore from backup
+Regular backups ensure you have current copies
+Version Control:
+Keep track of changes to documents
+Know who changed what and when
+Can revert to previous versions if needed
+Audit Trails:
+Record who accessed what information
+Record what changes were made
+Track everything for accountability
+Verification:
+Double-check important information
+Confirm changes are legitimate
+Don't trust suspicious modifications
+Availability means systems and information are accessible and working when you need them. They shouldn't be down, broken, or unavailable.(1)
+
+
+Why Availability Matters:
+When Availability Fails:
+Hospital System Down:
+
+Doctors need patient records to treat patients
+System is unavailable
+Can't see patient history, allergies, medications
+Patients don't get proper care
+Critical for patient safety
+ATM Machine Down:
+
+You need to withdraw cash
+ATM is not working
+Can't get money when you need it
+Frustrating for customers
+Video Game Server Down:
+
+You want to play with friends
+Server is offline
+Can't play right now
+Game is unavailable
+Real Examples of Availability Failures:
+Major Website Outage:
+Amazon Web Services (AWS) Outage 2021:
+
+AWS provides cloud services to thousands of companies
+System went down for several hours
+Millions of websites unavailable
+Netflix, Disney+, and thousands of apps couldn't work
+Estimated billions in lost revenue
+Impact:
+
+People couldn't watch videos
+Websites crashed
+Businesses lost money
+Shows how interconnected everything is
+Ransomware Bringing Systems Down:
+Hospital Ransomware Attack:
+
+Ransomware infects hospital system
+All files encrypted (locked up)
+Hospital can't access patient records
+Can't run critical systems
+Availability completely lost
+Hospital can't operate
+Patients transferred to other hospitals
+Hospital loses money and patients lose care
+Denial of Service Attack:
+DDoS (Distributed Denial of Service) Attack:
+
+Attacker floods website with fake traffic
+Server overwhelmed and crashes
+Website becomes unavailable
+Customers can't access service
+Business loses revenue
+Example: Attacker sends 1 million fake requests per second to website
+
+Server can only handle 10,000 legitimate requests
+Website crashes from overload
+Real customers get "website unavailable" error
+How to Protect Availability:
+Keep Systems Updated:
+Regular updates fix problems
+Keep software current
+Prevents crashes and errors
+Redundancy:
+Have backup systems ready
+If main system fails, backup takes over
+Multiple copies of critical data
+Backups:
+Regular backups of important data
+Stored in different locations
+Can restore if system fails
+Disaster Recovery Plan:
+Plan for what to do if systems fail
+Know how to restore operations
+Practice the plan regularly
+Have clear procedures
+Monitoring:
+Watch systems for problems
+Alerts if something goes wrong
+Can fix problems before they affect users
+Real-time visibility
+Load Balancing:
+Spread traffic across multiple servers
+No single point of failure
+Can handle more users
+Emergency Response:
+Know how to respond quickly
+Have emergency procedures
+Get systems back online fast
+The Balance:
+Sometimes protecting one principle means making a trade-off with another:(1)
+
+Example 1: Security vs Speed
+
+Strong encryption (confidentiality) = slow performance (availability)
+Need to find balance
+Example 2: Security vs Convenience
+
+Complex password policy (confidentiality) = harder for users
+Need to find balance
+Example 3: Data Collection vs Privacy
+
+Monitoring for attacks (availability/integrity) = less privacy
+Need to find balance
+Real-World Example - Bank:
+Bank needs all three:
+
+Confidentiality: Customer data encrypted, access restricted
+Integrity: Transactions accurate, balances correct
+Availability: Banking systems running 24/7
+If bank loses one:
+
+Lose confidentiality: Customer data stolen (customers panic, leave bank)
+Lose integrity: Wrong balances (customers distrust bank, leave)
+Lose availability: Can't do banking (customers can't access accounts)
+Banks must protect all three equally!
+
+Real-World Example – Email System:
+
+Email system needs all three:
+
+Confidentiality: Emails encrypted, only authorized users can read messages.
+Integrity: Email content remains unchanged during transmission.
+Availability: Email service accessible anytime for sending and receiving messages.
+If the email system loses one:
+Lose confidentiality: Sensitive emails are intercepted or read by unauthorized people (privacy breached, users lose trust).
+Lose integrity: Email contents are altered, attachments modified, or fake emails are inserted (miscommunication, fraud, and phishing risks increase).
+Lose availability: Users cannot send or receive emails due to server outages (communication stops, business operations are disrupted).
+Email systems must protect all three equally!
+
+Principle	Meaning	Protected	How	Example
+Confidentiality	Keep secrets secret	Private information	Passwords, encryption, access control	Medical records only for doctor
+Integrity	Keep accurate	Data accuracy	Digital signatures, backups, checksums	Bank balance shows correct amount
+Availability	Keep working	System access	Redundancy, backups, monitoring	Website works 24/7
+🔗
+(1)Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+
+---
+L5:
+🧩
+Level 2
+Topic 5
+Additional Security Concepts
+By the end of this topic, the learner should be able to:
+
+Define authentication and describe how a system confirms a user’s identity.
+Define authorization and distinguish it clearly from authentication.
+Define accountability and explain how recorded actions support security.
+Define non-repudiation and explain how it prevents a person from denying an action.
+
+The CIA Triad is the foundation of cybersecurity, but there are four more important principles that work together with it. These principles answer four critical questions:(1)
+
+Authentication: "Are you really who you say you are?"
+Authorization: "What are you allowed to do?"
+Accountability: "What did you do?"
+Non-Repudiation: "Can you deny you did it?"
+
+Authentication is proving your identity. It answers the question: "Are you really who you say you are?"(1)
+
+Think of it like showing your ID to prove you're you.
+
+Real-World Examples of Authentication:
+At the Airport:
+You show your ID to prove you're you
+Agent checks photo matches your face
+You're authenticated (proven to be you)
+You can board the plane
+At a Store:
+Cashier asks for ID when you buy age-restricted items
+You prove you're over 21
+You're authenticated
+You can make the purchase
+How Authentication Works Online:
+Password Authentication:
+Simple Process:
+
+You enter your username
+You enter your password
+System checks if password is correct
+If correct: You're authenticated (you can log in)
+If wrong: You're not authenticated (denied access)
+Example - Social Media Login:
+
+You enter username: "john_smith"
+You enter password: "MyP@ssw0rd123"
+System verifies password is correct
+Access granted to your account
+Problem with Passwords Alone:
+Passwords can be guessed
+Passwords can be stolen
+Passwords can be hacked
+Not always secure enough
+Types of Authentication Methods:
+Something You Know (Knowledge):
+Passwords you remember
+PIN numbers (Personal ID Number)
+Security questions ("What's your mother's maiden name?")
+Passphrases (longer than passwords)
+Pros:
+
+Easy to use
+No extra equipment needed
+Cons:
+
+People forget them
+People use weak ones
+Can be guessed or hacked
+Something You Have (Possession):
+Physical key
+ID card or badge
+Phone (receives text codes)
+Security token (device generating codes)
+Pros:
+
+Hard to duplicate
+More secure than password alone
+Cons:
+
+Can be lost or stolen
+More complicated to use
+Something You Are (Biometric):
+Fingerprint
+Facial recognition
+Iris or retina scan
+Voice recognition
+Pros:
+
+Unique to you
+Very hard to fake
+Can't forget or lose
+Cons:
+
+Special equipment needed
+Privacy concerns
+Doesn't work for everyone (fingerprints damaged, glasses for iris scan)
+Somewhere You Are (Location):
+Using GPS location
+Using WiFi location
+Using IP address location
+Pros:
+
+Automatic verification
+Passive (you don't have to do anything)
+Cons:
+
+Can be spoofed (faked)
+May prevent legitimate access
+Multi-Factor Authentication (MFA):
+What is it? Using multiple authentication methods together. Even stronger security.(2)
+
+Real Example - Bank Login with MFA:
+Step 1: Enter username and password Step 2: System sends code to your phone via text Step 3: You enter the code from text Step 4: Access granted
+
+Why it's better:
+
+Even if hacker steals password, they don't have your phone
+Even if they have your phone, they don't have password
+Requires both factors to break in
+Another Example - Gaming Account with MFA:
+Step 1: Enter username and password Step 2: App asks for fingerprint Step 3: Place finger on screen Step 4: Account accessed
+
+Why it's better:
+
+Password alone not enough
+Can't copy fingerprint
+Much harder to hack
+How Strong Passwords Work:
+Weak Passwords (Bad):
+"password123" - Common word with numbers
+"12345678" - Sequential numbers
+"qwerty" - Keyboard sequence
+"john2008" - Name with birth year
+Why they're bad:
+
+Easy to guess
+In common password lists
+Hackers crack them in seconds
+Strong Passwords (Good):
+"MyDog@te7GoldenRings!" - Mix of types
+"Correct-Horse-Battery-Staple" - Random words
+"P@ssw0rd!Secure#2024" - Mix of symbols
+"BlueMountain$Guitar42" - Random combination
+Why they're good:
+
+Hard to guess
+Mix of uppercase, lowercase, numbers, symbols
+Long enough (12+ characters)
+Unique to you
+Password Tips:
+Don't use real words
+Mix uppercase and lowercase
+Use numbers and symbols
+Make it at least 12 characters
+Use different passwords for different accounts
+Don't write it down
+Never share your password
+
+Authorization means determining what someone is allowed to do after they've proven who they are. It answers: "Now that I know you're you, what access should I give you?"(1)
+
+How Authentication and Authorization Work Together:
+
+Real-World Example:
+At a Bank:
+Authentication:
+
+You enter PIN at ATM
+System confirms you're you
+Authorization:
+
+You can withdrawal up to $500 per day
+You can transfer money between accounts
+You CANNOT access other customers' accounts
+You CANNOT see bank employee accounts
+Types of Authorization:
+Role-Based Authorization:
+People get access based on their job/role.(2)
+
+Examples:
+
+Teacher role: Can see all student grades
+Student role: Can see only their own grade
+Principal role: Can see all school data
+Janitor role: Can access only janitor schedules
+In a Business:
+
+CEO role: Can access everything
+Manager role: Can access team data
+Employee role: Can access only their own files
+Intern role: Can access limited data
+Principle of Least Privilege:
+Golden Rule: Give people the MINIMUM access they need to do their job.(2)
+
+Why?
+
+If account gets hacked, damage is limited
+Prevents accidental access to sensitive data
+Reduces risk of insider threats
+Example - Help Desk Worker:
+
+Can ONLY reset passwords
+Can ONLY create new accounts
+CANNOT delete accounts
+CANNOT access employee salaries
+CANNOT see medical records
+If this account is hacked:
+
+Hacker can only reset passwords
+Cannot access sensitive data
+Limited damage
+How Authorization is Managed:
+Access Control Lists:
+List of who can access what
+Like a guest list for a club
+Only people on the list get access
+Example - File Access:
+
+File: "Budget_2024.xlsx"
+Can access: Finance Manager, CFO, CEO
+Cannot access: Regular employees, interns
+System enforces this list
+Permission Management:
+IT administrator controls permissions
+Decides who gets access to what
+Can grant or revoke access
+Regular reviews to update permissions
+
+Accountability means recording what people do so you can track their actions. It answers: "What did you do and when did you do it?"(1)
+
+Why Accountability Matters:
+If No Accountability:
+No record of who did what
+Can't prove someone accessed information
+Can't investigate if something goes wrong
+People can deny their actions
+No consequences for bad behavior
+With Accountability:
+Every action is recorded
+Know exactly who did what and when
+Can investigate security incidents
+Can prove someone accessed data
+People are responsible for their actions
+Real-World Examples:
+School Attendance:
+No Accountability:
+
+No one records who's in class
+Student skips class, no one knows
+Student never faces consequences
+Can lie about attendance
+With Accountability:
+
+Teacher takes attendance
+Record shows who was present
+Student can't deny skipping
+Parents notified if absent
+Student faces consequences
+Computer System Access:
+No Accountability:
+
+No log of who accessed files
+Can't prove if hacker accessed data
+Employees can steal secrets
+No way to investigate
+With Accountability:
+
+Every login recorded
+Every file access logged
+Know who accessed what and when
+Can detect suspicious activity
+Can trace data theft
+What Gets Recorded (Audit Logs):
+Authentication Events:
+Who logged in (username)
+When they logged in (date and time)
+From where (IP address, location)
+Success or failure
+Data Access Events:
+Who accessed what file
+When they accessed it
+What they did with it (read, copied, printed)
+Administrative Actions:
+Who changed permissions
+Who deleted accounts
+Who modified settings
+When they did it
+
+Non-repudiation means you cannot deny you did something. There's proof it was you.(1)
+
+It answers: "Can you deny you did this action?"
+
+Answer: "No, you can't deny it. We have proof."
+
+Real-World Examples:
+Email Signature:
+No Proof (Email without signature):
+
+Email says: "Approve this $100,000 purchase"
+CEO claims: "I never sent that email"
+No way to prove CEO sent it
+Could have been hacked account
+CEO can deny responsibility
+With Proof (Digital signature):
+
+Email digitally signed with CEO's private key
+Signature proves CEO's key created it
+CEO cannot deny sending email
+Proof is cryptographic (unbreakable)
+CEO is responsible
+Digital Contracts:
+No Proof:
+
+Two companies exchange contract via email
+Later, one company says: "We never agreed to this"
+No proof of agreement
+Legal dispute
+Costly to resolve
+With Proof (Digital signature):
+
+Both parties digitally sign contract
+Signatures prove both agreed
+Both parties cannot deny it
+Legally binding
+Court will enforce it
+How Non-Repudiation Works:
+Digital Signatures:
+Think of it like electronic fingerprints for documents.(2)
+
+Simple Process:
+
+Document created
+Person signs with digital signature
+Signature mathematically tied to document
+Only that person could create that signature
+Anyone can verify signature is real
+Person cannot deny they signed it
+Why It's Secure:
+
+Signature unique to person
+If document changed even slightly, signature invalid
+Can't forge signature without person's private key
+Person is the only one with private key
+Real Example - Digital Signature on Document:
+
+Verification:
+
+Amount was changed
+Signature is now invalid
+Document tampering detected
+Changes didn't come from John
+Why Non-Repudiation Matters:
+Legal Protection:
+Court Case:
+
+Person claims they didn't authorize transaction
+Digital signature proves they did
+Court accepts digital signature as proof
+Person cannot win case
+Person held accountable
+Business Protection:
+Fraud Prevention:
+
+Manager approves high-value purchase
+Later claims it was unauthorized
+Digital signature proves they approved
+Manager cannot blame someone else
+Accountability enforced
+Security:
+Crime Prevention:
+
+Hacker tries to impersonate you
+Uses your email account
+Sends emails authorizing fraudulent transactions
+Digital signatures prove it wasn't you
+You can prove hacker did it
+Complete Security Example - Bank Transfer:
+Step 1: Authentication
+
+You log in with password and fingerprint
+System confirms you're really you
+"Yes, you're Sarah Johnson"
+Step 2: Authorization
+
+System checks what you can do
+You're a customer, can transfer up to $10,000
+You cannot access other accounts
+Cannot change bank settings
+Step 3: Action with Accountability
+
+You authorize $500 transfer
+System records:
+Who: Sarah Johnson
+What: Transferred $500
+When: 2024-06-24 14:32:15
+From: Your account
+To: Friend's account
+Everything logged
+Step 4: Non-Repudiation
+
+Transfer digitally signed with your signature
+Proves you authorized it
+You cannot later claim you didn't do it
+Bank has proof you approved it
+Result:
+
+You can't deny the transfer
+Bank has complete audit trail
+If there's dispute, proof exists
+Everyone is accountable
+The Security Circle:
+
+Real-World Workflow:
+You try to log into your email
+Authentication: "Who are you?"
+Enter password
+Confirm fingerprint
+System: "You're authenticated"
+Authorization: "What can you do?"
+You're user, can read own emails
+Can send emails
+Cannot delete other users' emails
+Can access your files
+You send sensitive email to boss
+Action recorded in system log
+Accountability: "What did you do?"
+Log shows you sent email at 3:47 PM
+Shows recipient and content
+Timestamp recorded
+Non-Repudiation: "Can you deny it?"
+Email digitally signed with your signature
+You cannot claim you didn't send it
+Boss can verify it came from you
+Concept	Meaning	Question	Example
+Authentication	Proving identity	"Are you who you say?"	Password + fingerprint to log in
+Authorization	Controlling access	"What can you do?"	Student sees only their grades
+Accountability	Tracking actions	"What did you do?"	System logs every access
+Non-Repudiation	Proving actions	"Can you deny it?"	Digital signature on approval
+🔗
+(1)Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+
+---
+L6:
+🎯
+Level 2
+Topic 6
+Assets and Attack Surfaces
+By the end of this topic, the learner should be able to:
+
+Define an asset in the context of cybersecurity.
+Identify the main types of assets that an organization must protect.
+Explain the concept of an attack surface and why it should be kept small.
+Define a digital footprint and describe how it affects personal security.
+
+Before hackers can attack something, they need to know what exists. In this topic, we'll learn what assets are, what makes a good attack target, and how your digital footprint exposes you to attacks.
+
+Think of it like this: A burglar looks at a house before robbing it. They check for windows, doors, alarms, and security cameras. Hackers do the same thing with computers and networks.
+
+
+An asset is anything of value that needs to be protected. It can be physical (you can touch it) or digital (only exists online).(1)
+
+Examples of Assets:
+Personal Assets (Your Stuff):
+Physical:
+
+Your phone
+Your laptop or computer
+Your gaming console
+Your books and notes
+Digital:
+
+Your social media accounts
+Your email account
+Your photos and videos
+Your game accounts
+Your documents and files
+Your passwords
+Business Assets (Company Stuff):
+Physical:
+
+Office buildings
+Computers and servers
+Equipment and machinery
+Security cameras
+Digital:
+
+Customer database
+Financial records
+Employee information
+Business strategies and plans
+Software and applications
+Why Assets Matter:
+Assets are targets for hackers because they contain valuable information or can cause damage if compromised.(1)
+
+Example - Social Media Account:
+
+Your account is an asset
+Contains photos, messages, personal info
+Could be stolen and used by hackers
+Needs protection
+
+Assets fall into different categories. Understanding types helps us protect them better.(4)
+
+Category 1: Information Assets
+Definition: Data and information that has value.(4)
+
+Examples:
+Personal Information:
+
+Your name, address, phone number
+Social Security number
+Medical records
+Financial information
+Photos and videos
+Messages and emails
+Business Information:
+
+Customer lists
+Employee records
+Financial data
+Trade secrets
+Strategies and plans
+Research and development
+Why Protect Them:
+Identity theft if personal info stolen
+Business loss if competitor gets secrets
+Embarrassment if private info exposed
+Category 2: Technology Assets
+Definition: Computers, devices, and systems that process information.(4)
+
+Examples:
+Devices:
+
+Phones and tablets
+Laptops and desktop computers
+Servers
+Routers and modems
+Smart home devices
+Gaming consoles
+Software:
+
+Operating systems (Windows, Mac, Linux)
+Applications and programs
+Databases
+Websites
+Infrastructure:
+
+Network connections
+Internet connections
+Cloud storage
+Data centers
+Why Protect Them:
+If hacked, all data on them is at risk
+If broken, they can't work
+Cost money to replace
+Essential for business operations
+Category 3: People Assets
+Definition: Human resources and their knowledge/skills.(1)
+
+Examples:
+Employees:
+
+Your work staff
+Your expertise
+Your experience
+Your knowledge
+Skills and Knowledge:
+
+How to operate systems
+Business processes
+Technical expertise
+Customer relationships
+Why Protect Them:
+Employees are vulnerable to social engineering(1)
+Hackers manipulate people to gain access
+Trained employees are harder to trick
+People need security awareness
+Category 4: Reputation Assets
+Definition: Trust and brand image.(1)
+
+Examples:
+Business Reputation:
+
+Brand name
+Customer trust
+Business relationships
+Online reviews and ratings
+Personal Reputation:
+
+School record
+Family relationships
+Social media presence
+Professional image
+Why Protect Them:
+Hacker posts fake content as you (damage your reputation)
+Negative news spreads fast online
+Takes years to rebuild trust
+Reputation damage can be permanent
+Category 5: Physical Assets
+Real, tangible things you can touch.
+
+Examples:
+At Home:
+
+Computer hardware
+Phone and tablets
+Router and modem
+USB drives and external drives
+At Business:
+
+Office buildings
+Facilities and equipment
+Servers and data centers
+Security systems
+Why Protect Them:
+Can be stolen or damaged
+Contain data
+Cost money to replace
+Essential for operations
+Different assets have different levels of importance. Organizations rank them:(4)
+
+Critical (Most Important):
+Customer database
+Financial records
+Patient medical records
+Security credentials
+Must be protected heavily
+High:
+Employee records
+Strategic plans
+Intellectual property
+Backups
+Need strong protection
+Medium:
+Non-sensitive business data
+Internal communications
+Some websites
+Need standard protection
+Low (Least Important):
+Public information
+Marketing materials
+Published information
+Need basic protection
+
+Your attack surface is all the places where a hacker could try to break in. It's the total number of vulnerabilities and entry points.(2)
+
+Think of it like this: A house has many entry points (front door, back door, windows, garage). The more entry points, the bigger the attack surface. More places = harder to defend.(2)
+
+What Makes Up an Attack Surface?
+Network Entry Points:
+Routers and Modems:
+
+Connect you to internet
+Hackers can try to break through
+Entry point to your home network
+Servers and Websites:
+
+Public facing
+Accessible from internet
+Multiple entry points for hackers
+Email Systems:
+
+Receive emails from anyone
+Phishing emails are entry points
+Suspicious attachments are entry points
+Software Vulnerabilities:
+Outdated Software:
+
+Old versions have known security flaws
+Hackers exploit these flaws
+Unpatched software is an entry point
+Third-Party Applications:
+
+Apps you install can have vulnerabilities
+Might contain malware
+Could be entry points for attackers
+Web Browsers:
+
+Can have security flaws
+Malicious websites exploit them
+Browser plugins can be risky
+User Behavior Entry Points:
+Weak Passwords:
+
+Easy to guess
+Entry point for hackers
+Authentication bypass
+Phishing Emails:
+
+Trick users into clicking links
+Enter credentials on fake websites
+Entry point for attackers
+Social Engineering:
+
+Manipulating people for information
+Getting passwords through psychology
+Accessing credentials without hacking
+Unpatched Devices:
+
+Devices with known flaws
+Hackers exploit flaws
+Security updates not installed
+Physical Entry Points:
+Unlocked Doors:
+
+Physical access to equipment
+Can plug in devices
+Can steal hardware
+Public WiFi:
+
+Insecure network
+Hackers intercept communications
+Entry point for monitoring
+Unattended Devices:
+
+Left alone at coffee shop
+Someone installs malware
+Steals device
+Visualizing Attack Surface:
+Small Attack Surface (Few Entry Points):
+Single Computer, Isolated:
+
+Not connected to internet
+No email
+No external connections
+Few places to attack
+Harder to compromise
+Large Attack Surface (Many Entry Points):
+Connected Business:
+
+Website accessible to everyone
+Email system open to all
+Mobile devices connecting
+Remote access enabled
+Multiple software applications
+Multiple users
+Many ways to attack
+Smart strategies to reduce entry points:
+Technology Changes:
+Keep Software Updated:(3)
+
+Patches fix security flaws
+Reduces vulnerabilities
+Closes entry points
+Do this regularly!
+Remove Unnecessary Software:
+
+Extra programs = extra vulnerabilities
+Uninstall unused applications
+Fewer entry points for attackers
+Reduces overall risk
+Disable Unnecessary Services:
+
+Turn off features you don't use
+Each feature = potential vulnerability
+Disable unused network services
+Reduces attack surface
+Use Firewalls:(2)
+
+Block unnecessary traffic
+Only allow what's needed
+Reduces exposed entry points
+First line of defense
+User Behavior Changes:
+Strong Passwords:
+
+Harder to guess
+Slower to crack
+Reduces entry point
+Take authentication seriously
+Avoid Clicking Links:
+
+Don't click suspicious email links
+Don't download random files
+Reduces phishing entry point
+Think before clicking
+Keep Credentials Safe:
+
+Don't share passwords
+Don't write them down
+Don't use same password everywhere
+Reduces compromised account risk
+Organizational Changes:
+Principle of Least Privilege:(2)
+
+Only give access needed for job
+Reduces damage if account compromised
+Fewer entry points for misuse
+Limits lateral movement
+Network Segmentation:(2)
+
+Separate critical networks
+Keep guest network separate
+Infected computer can't access all data
+Reduces attack surface
+Regular Security Audits:(4)
+
+Find vulnerabilities before hackers do
+Test for weaknesses
+Fix problems proactively
+Reduce risk
+
+Your digital footprint is all the information about you that exists online. It's the trail you leave behind as you use the internet.(1)
+
+Think of it like real footprints in snow. Everywhere you walk, you leave footprints. Online, everywhere you go, you leave digital footprints.
+
+What Makes Up Your Digital Footprint?
+Emails and Messages:
+Emails you send and receive
+Text messages
+Chat messages
+Stored by companies and might be accessed
+Online Accounts:
+Every website you create an account on
+Your username and profile information
+Payment information stored
+Location Data:
+GPS tracking from phone
+Location tags on photos
+Check-ins at locations
+Maps and navigation history
+Online Purchases:
+Everything you buy online
+Shipping addresses
+Payment methods
+Purchase history
+Public Records:
+News articles mentioning you
+School records
+Court records
+Business registrations
+How Your Digital Footprint Is Created:
+Active Footprint (You Create It):
+Posts you make on social media
+Photos you upload
+Accounts you create
+Information you intentionally share
+You have control over this
+Passive Footprint (Created About You):
+Cookies tracking your browsing
+Companies tracking your location
+Data brokers collecting info about you
+Websites recording your activity
+Other people posting about you
+You have less control over this
+Example - Google Search History:
+What You Search:
+
+"How to get good grades"
+"Gaming laptop reviews"
+"My school name + hours"
+What Google Knows About You:
+
+Your interests
+What concerns you
+Where you live (school name)
+What you plan to buy
+Your browsing habits
+This information:
+
+Sold to advertisers
+Used to show you ads
+Stored in Google's servers
+Potentially available if hacked
+Why Your Digital Footprint Matters:
+Security Risk:
+Hackers Use It:(1)
+
+Research your interests to target you
+Find personal information for scams
+Social engineer you with knowledge about you
+Build profile to guess passwords
+Example:
+
+Hacker sees you posted photos from vacation
+Knows you were out of town
+Assumes your home is empty
+Privacy Risk:
+Companies Track You:
+
+Collect data about you
+Build advertising profile
+Sell data to other companies
+Target you with ads
+May sell to data brokers
+Example:
+
+You search "depression symptoms"
+Data broker buys search history
+All from your digital footprint
+Reputation Risk:
+Permanent Record:
+
+Posts you made years ago still exist
+Screenshot forever if needed
+Can be used against you
+Colleges review social media
+Employers search your name
+Example:
+
+Age 14: Post something silly on Instagram
+Age 18: Applying to college
+College finds old post
+How to Manage Your Digital Footprint:
+Reduce What You Share:
+Be Selective:
+
+Don't post personal information
+Think before you post
+Don't share location
+Be careful with photos
+Don't Share:
+
+Home address
+Phone number
+School name and schedule
+Full date of birth
+Financial information
+Use Privacy Settings:
+Social Media:
+
+Set account to private (not public)
+Only approved friends see posts
+Control who sees your location
+Limit who can contact you
+Don't share everything with everyone
+Phone Settings:
+
+Turn off location services for apps that don't need it
+Disable ad tracking
+Limit app permissions
+Review privacy settings regularly
+Browser Settings:
+
+Clear cookies regularly
+Use private/incognito mode
+Disable third-party cookies
+Review browser permissions
+Be Aware of Data Collection:
+Know What's Tracked:
+
+Google tracks your searches
+Facebook tracks your activity
+Apps track your location
+Websites use cookies
+Your phone tracks everything
+You Can Limit It:
+
+Use VPN (hides your location)
+Use privacy-focused search engine
+Opt out of ad tracking
+Disable location services
+Use password manager
+Regular Footprint Cleanup:
+Delete Old Posts:
+
+Remove old social media posts
+Delete emails you don't need
+Remove unused accounts
+Clean up digital history
+Search Your Name:
+
+Google yourself
+See what's publicly available
+Remove information if possible
+Monitor your reputation
+Concept	Definition	Example
+Asset	Anything of value needing protection	Your email account, family photos
+Types of Assets	Information, Technology, People, Reputation, Physical	Database, laptop, employees, brand
+Attack Surface	All entry points hackers could use	Website, email, weak passwords, old software
+Digital Footprint	All information about you online	Social media posts, search history, location
+Reducing Attack Surface	Closing entry points to reduce risk	Update software, strong passwords, firewalls
+Managing Footprint	Controlling what information exists about you	Privacy settings, delete old posts, think before sharing
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(3)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(4)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L7:
+💼
+Level 2
+Topic 7
+Cybersecurity Career Tracks
+By the end of this topic, the learner should be able to:
+
+Recognise that cybersecurity is a broad field containing many specialised roles.
+Describe the main responsibility of each of the eight career tracks introduced.
+Match a personal interest to a suitable cybersecurity track.
+Cybersecurity isn't just one job. There are many different specializations, each focusing on different aspects of protecting organizations. Think of it like medicine - some doctors are surgeons, some are pediatricians, some are dentists. They all work in healthcare but have different specializations.(1)
+
+In this topic, we'll explore 8 different cybersecurity career paths and see which ones might interest you.
+
+
+What They Do: A SOC analyst is like a security guard for computers. They watch computer systems 24/7 to catch hackers and attacks as they happen.(3)
+
+Main Responsibilities:
+Monitor Systems:
+Watch security dashboards and alerts
+Look for suspicious activity
+Detect malware and intrusions
+Respond quickly to threats
+Investigate Alerts:
+Check if alerts are real threats or false alarms
+Analyze what's happening
+Determine if it's dangerous
+Document findings
+Escalate Incidents:
+Tell the incident response team about serious threats
+Provide details about what's happening
+Help contain the threat
+Keep other teams informed
+What a Day Looks Like:
+9:00 AM - Start shift, review overnight activity 9:30 AM - Investigate unusual login from strange location 10:30 AM - False alarm: employee traveling 11:00 AM - Monitor systems 12:30 PM - Lunch 1:00 PM - Real alert: suspicious file activity 2:00 PM - Investigate and escalate to incident response 3:00 PM - Help with containment 4:00 PM - Hand off to next shift
+
+Skills Needed:
+Technical Skills:
+Understand how networks work
+Know about malware and viruses
+Ability to read log files (computer activity records)
+Use security monitoring tools
+Basic coding helpful
+Personal Skills:
+Pay attention to details
+Stay calm under pressure
+Work well in teams
+Good problem-solving
+Communication skills
+Is This for You?
+Good if you like:
+Puzzles and mysteries
+Pattern recognition
+Helping people
+Technology
+Working in teams
+Not good if you:
+Dislike repetitive work
+Can't focus long periods
+Hate shift work (nights/weekends)
+Don't like stress
+
+What They Do: Incident responders are specialized investigators who handle active security breaches. When a company gets hacked, incident responders figure out what happened and fix it.(1)
+
+Main Responsibilities:
+Detect and Contain:
+Identify that a breach happened
+Stop the hacker from causing more damage
+Isolate infected systems
+Prevent data loss
+Investigate:
+Determine how the hacker got in
+See what data was accessed
+Identify the attacker if possible
+Create timeline of events
+Eradicate and Recover:
+Remove malware and hacker tools
+Patch the vulnerabilities
+Restore systems to normal
+Verify systems are clean
+What a Day Looks Like:
+Day 1 - Breach Discovered:
+2:00 PM: Company detects ransomware attack
+2:30 PM: Meeting to understand what's happening
+3:00 PM: Begin containment (isolate affected systems)
+5:00 PM: Collect evidence for analysis
+8:00 PM: Continue investigating
+Day 2 - Investigation:
+9:00 AM: Resume after brief sleep
+10:00 AM: Analyze forensic evidence
+12:00 PM: Team meeting on findings
+2:00 PM: Recover systems
+4:00 PM: Begin documentation
+Day 3 - Resolution:
+9:00 AM: Verify systems are clean
+12:00 PM: Declare incident resolved
+1:00 PM: Write complete incident report
+3:00 PM: Present findings to leadership
+Skills Needed:
+Technical Skills:
+Digital forensics (analyzing systems for evidence)
+Log analysis
+Malware analysis
+Network analysis
+Scripting/coding
+Threat modeling
+Personal Skills:
+Crisis management
+Decision-making under pressure
+Attention to detail
+Communication
+Leadership
+Investigative thinking
+Is This for You?
+Good if you like:
+Investigating mysteries
+High-pressure situations
+Solving complex problems
+Taking charge
+Different challenges daily
+Not good if you:
+Want predictable schedule
+Can't work irregular hours
+Don't handle stress well
+Prefer routine
+
+What They Do: Threat intelligence analysts hunt for information about cyber threats and attackers. They research threats and share what they find to help organizations prepare.(1)
+
+Main Responsibilities:
+Collect Intelligence:
+Monitor dark web for threats
+Track hacker forums and groups
+Analyze malware samples
+Research new attack techniques
+Track threat actor activity
+Analyze Threats:
+Understand attacker capabilities
+Profile threat groups
+Predict future attacks
+Identify trends
+Assess risk to organization
+Report Findings:
+Create threat reports
+Brief security teams
+Share indicators of compromise
+Provide actionable recommendations
+Keep everyone informed
+What a Day Looks Like:
+9:00 AM - Morning briefing on threats 9:30 AM - Monitor threat intelligence feeds 10:00 AM - Research new malware variant 11:30 AM - Download and analyze malware 12:30 PM - Lunch 1:00 PM - Write threat report 2:00 PM - Present findings to team 3:00 PM - Coordinate with SOC on detection 4:00 PM - Research threat actors 5:00 PM - Update threat tracking system
+
+Skills Needed:
+Technical Skills:
+Malware analysis
+Reverse engineering
+OSINT (finding public information)
+Programming/scripting
+Data analysis
+Vulnerability research
+Personal Skills:
+Research ability
+Critical thinking
+Written communication
+Curiosity
+Pattern recognition
+Is This for You?
+Good if you like:
+Research
+Puzzles and mysteries
+Staying current with trends
+Writing
+Deep technical analysis
+Not good if you:
+Need fast-paced action
+Can't spend hours on research
+Dislike writing reports
+Want immediate results
+
+What They Do: Penetration testers are ethical hackers. Companies hire them to try to hack into their systems to find vulnerabilities before real hackers do.(2)
+
+Main Responsibilities:
+Reconnaissance:
+Gather information about target
+Identify potential entry points
+Discover systems and services
+Plan attack strategy
+Exploitation:
+Attempt to break into systems
+Test for vulnerabilities
+Try to gain unauthorized access
+Demonstrate security gaps
+Analysis and Reporting:
+Document vulnerabilities found
+Rate severity of each issue
+Create remediation recommendations
+Provide detailed technical reports
+Present findings to leadership
+What a Day Looks Like:
+Week 1 - Reconnaissance:
+Monday: Project kickoff meeting
+Tuesday-Wednesday: Gather information
+Thursday-Friday: Scan for vulnerabilities
+Plan exploitation strategy
+Week 2 - Exploitation:
+Monday: Begin exploitation attempts
+Tuesday-Wednesday: Gain initial access
+Thursday: Escalate privileges
+Friday: Report writing
+Week 3 - Reporting:
+Present findings
+Walk through vulnerabilities
+Discuss fixes
+Answer questions
+Skills Needed:
+Technical Skills:
+Networking fundamentals
+Operating systems knowledge
+Scripting/coding
+Vulnerability assessment
+Exploitation techniques
+Penetration testing tools
+Personal Skills:
+Problem-solving
+Creativity
+Persistence
+Communication
+Ethics (critical!)
+Attention to detail
+Is This for You?
+Good if you like:
+Hacking (ethically)
+Problem-solving
+Technical challenges
+Variety of projects
+Autonomy
+Not good if you:
+Don't like Linux/coding
+Dislike solitary work
+Need structured environment
+Want stability
+
+What They Do: Digital forensics specialists investigate digital crimes. They examine computers and devices to find evidence of what happened and who did it.(2)
+
+Main Responsibilities:
+Evidence Collection:
+Collect digital devices properly
+Preserve evidence chain of custody
+Create forensic images (exact copies)
+Ensure evidence can be used in court
+Analysis:
+Examine files and data
+Recover deleted files
+Analyze metadata (creation dates, etc.)
+Understand what happened
+Find culprits
+Investigation:
+Build timeline of events
+Connect evidence together
+Determine what was stolen
+Identify perpetrator
+Prepare for court
+What a Day Looks Like:
+Case - Employee Data Theft Investigation:
+Monday:
+Receive suspect's laptop
+Document chain of custody
+Create forensic image
+Tuesday-Wednesday:
+Analyze hard drive
+Search for relevant files
+Examine metadata
+Find evidence of data theft
+Thursday:
+Recover deleted files
+Build timeline
+Document findings
+Friday:
+Write forensic report
+Prepare for potential testimony
+Present findings
+Skills Needed:
+Technical Skills:
+File system knowledge
+Operating systems deep knowledge
+Data recovery techniques
+Scripting/automation
+Forensic tools expertise
+Chain of custody procedures
+Personal Skills:
+Investigative thinking
+Attention to detail
+Documentation skills
+Communication
+Legal knowledge
+Testimony ability
+Is This for You?
+Good if you like:
+Investigation
+Puzzles
+Meticulous work
+Legal aspects
+Finding evidence
+Not good if you:
+Can't focus on details
+Don't like repetitive work
+Dislike complex documentation
+Want fast-paced action
+
+What They Do: AppSec specialists make sure software is built securely. They find and fix security flaws in code before applications are released to users.(2)
+
+Main Responsibilities:
+Code Review:
+Read through source code
+Look for security vulnerabilities
+Find dangerous coding practices
+Provide feedback to developers
+Vulnerability Testing:
+Test applications for flaws
+Find injection vulnerabilities
+Test authentication systems
+Identify weaknesses
+Security Architecture:
+Design secure applications
+Plan security for new projects
+Review architectural decisions
+Recommend secure patterns
+Training:
+Teach developers secure coding
+Conduct security workshops
+Mentor security champions
+Share best practices
+What a Day Looks Like:
+Monday:
+Team standup on security priorities
+Discuss concerns with development team
+Tuesday:
+Manual code review
+Find security issues
+Provide developer feedback
+Wednesday:
+Automated security scanning
+Review scanner results
+Triage findings
+Create tickets for developers
+Thursday:
+Threat modeling for new feature
+Design security architecture
+Recommend controls needed
+Friday:
+Developer training
+Security workshop
+Answer questions
+Plan next week
+Skills Needed:
+Technical Skills:
+Multiple programming languages
+Web technologies
+API security
+Cryptography basics
+Security testing tools
+Secure coding practices
+Personal Skills:
+Communication
+Teaching ability
+Collaboration
+Problem-solving
+Patience with developers
+Is This for You?
+Good if you like:
+Programming
+Proactive security
+Teaching
+Collaboration
+Code analysis
+Not good if you:
+Dislike coding
+Don't like working with teams
+Want pure technical work
+Prefer not working with people
+
+What They Do: Cloud security specialists protect cloud infrastructure. They secure systems deployed on AWS, Azure, or Google Cloud.(3)
+
+Main Responsibilities:
+Cloud Configuration:
+Secure cloud platforms
+Check for misconfigurations
+Set up security controls
+Manage access permissions
+Infrastructure Security:
+Protect cloud storage
+Secure databases
+Protect virtual machines
+Manage encryption keys
+Compliance:
+Meet regulatory requirements
+Document security controls
+Perform audits
+Ensure compliance standards
+Incident Response:
+Respond to cloud-based attacks
+Investigate compromised accounts
+Remediate cloud incidents
+Monitor for threats
+What a Day Looks Like:
+Monday:
+Review cloud security configurations
+Check for misconfigurations
+Verify encryption enabled
+Audit IAM (access control)
+Tuesday:
+Incident: Unusual API calls detected
+Investigate compromised account
+Revoke suspicious credentials
+Implement controls
+Wednesday:
+Deploy security automation
+Test infrastructure changes
+Verify security controls working
+Thursday:
+Compliance audit preparation
+Document cloud security
+Demonstrate controls implemented
+Friday:
+Plan new cloud project
+Provide security recommendations
+Design secure architecture
+Skills Needed:
+Technical Skills:
+Deep AWS/Azure/GCP knowledge
+Networking in cloud
+Containers and Kubernetes
+Infrastructure as Code
+Scripting/automation
+Compliance knowledge
+Personal Skills:
+Continuous learning (clouds change fast)
+Problem-solving
+Communication
+Adaptability
+Is This for You?
+Good if you like:
+Modern technology
+Cloud platforms
+Continuous learning
+Automation
+Infrastructure
+Not good if you:
+Dislike rapid changes
+Need stability
+Prefer traditional IT
+Don't like scripting
+
+What They Do: GRC specialists work at the strategic level. They help organizations manage risks, follow regulations, and make good security decisions.(4)
+
+Main Responsibilities:
+Risk Assessment:
+Identify organizational risks
+Evaluate threat likelihood
+Assess business impact
+Prioritize risks
+Compliance Management:
+Understand applicable regulations
+Assess compliance status
+Implement required controls
+Prepare for audits
+Remediate violations
+Policy Development:
+Create security policies
+Ensure policies align with regulations
+Get stakeholder approval
+Communicate policies
+Audit Support:
+Gather audit evidence
+Respond to auditor questions
+Coordinate external audits
+Track remediation
+What a Day Looks Like:
+Monday:
+Risk assessment meeting
+Discuss business changes
+Identify new risks
+Update risk register
+Tuesday:
+GDPR compliance review
+Verify data protection controls
+Assess data subject rights implementation
+Document compliance status
+Wednesday:
+Policy update review
+Ensure policies current
+Get approval
+Communicate to organization
+Thursday:
+SOC 2 audit preparation
+Gather evidence
+Demonstrate controls
+Prepare documentation
+Friday:
+Vendor risk assessment
+Evaluate security
+Review contracts
+Make recommendations
+Skills Needed:
+Technical Skills:
+Risk assessment
+Compliance frameworks
+Regulations (GDPR, HIPAA, etc.)
+Security standards (ISO 27001, NIST)
+Documentation
+Project management
+Personal Skills:
+Communication
+Stakeholder management
+Negotiation
+Project management
+Business acumen
+Is This for You?
+Good if you like:
+Strategic thinking
+Regulations and compliance
+Documentation
+Project management
+Policy work
+Not good if you:
+Need hands-on technical work
+Dislike documentation
+Want fast-paced action
+Don't like meetings
+Career	Main Focus	Stress	Best For
+SOC Analyst	Real-time monitoring	High	Alert-focused
+Incident Response	Crisis management	Very High	Action-seekers
+Threat Intelligence	Research & analysis	Moderate	Researchers
+Penetration Testing	Hacking (ethical)	Moderate	Problem-solvers
+Digital Forensics	Investigation	Moderate	Investigators
+AppSec	Code security	Moderate	Developers
+Cloud Security	Cloud platforms	Moderate	Modern tech
+GRC	Risk & compliance	Lower	Strategic thinkers
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(3)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(4)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+
+--------------------------
+
+Week 12:
+L1:
+💎
+Level 2
+Topic 1
+Understanding Assets
+By the end of this topic, the learner should be able to:
+
+Explain why understanding assets is the first step in studying threats and attacks.
+Identify the five main types of assets that an organization must protect.
+Distinguish between systems, applications, and infrastructure.
+Explain why people are considered a type of asset.
+Assets are anything of value to an organization that needs to be protected from cyberattacks and security threats.(1)
+
+Think of assets like valuable items in your home that you want to protect: your computer, your phone, your personal documents, your money. Organizations have similar assets that need protection.
+
+In cybersecurity, we focus on five main types of assets:(4)
+
+Data
+Systems
+Applications
+Infrastructure
+Human Assets
+
+What is Data? Data is information in various forms - numbers, text, images, videos, and files. Data is often the most valuable asset to attackers.(4)
+
+Types of Data:
+Personal Data:
+Names and addresses
+Phone numbers and email addresses
+Social Security numbers
+Dates of birth
+Photos and videos
+Medical records
+Financial information
+Passwords and login credentials
+Business Data:
+Customer databases (lists of customers and their information)
+Financial records and reports
+Employee information and payroll
+Strategic plans and business strategies
+Trade secrets and formulas
+Intellectual property (patents, designs)
+Email communications
+Contracts and agreements
+Government Data:
+Classified information
+Military secrets
+National security information
+Intelligence reports
+Diplomatic communications
+Census data
+Tax records
+Real Examples of Data Assets:
+Hospital Data:
+What Data They Have:
+
+Patient medical records
+Diagnoses and treatments
+Prescription information
+Insurance information
+Personal information
+Why It's Valuable:
+
+Criminals sell medical data
+Insurance companies buy data
+Hackers blackmail patients
+Used for identity theft
+Worth: $250-$500 per medical record on dark web
+
+How Data Gets Attacked:
+Theft:
+
+Hackers steal data to sell
+Competitors steal trade secrets
+Insiders leak confidential information
+Corruption:
+
+Hackers alter data
+Makes data unreliable
+Can cause wrong decisions
+Deletion:
+
+Ransomware deletes files
+Sabotage by insiders
+Loss of valuable information
+Exposure:
+
+Private data becomes public
+Embarrassment and harm
+Regulatory violations
+
+What are Systems? Systems are the computers and servers that process and store data. They're the machines that run everything.(2)
+
+Types of Systems:
+Personal Computers:
+Laptops
+Desktop computers
+Home computers
+Your personal machine
+Servers:
+Web servers (run websites)
+Database servers (store data)
+File servers (store files)
+Email servers (handle emails)
+Application servers (run programs)
+Mobile Devices:
+Smartphones
+Tablets
+Smartwatches
+Mobile computing devices
+Specialized Systems:
+ATM machines
+Medical devices
+Industrial control systems
+Smart home devices
+IoT devices (Internet of Things)
+Real Examples of System Assets:
+Hospital Monitoring Servers:
+Systems:
+
+Patient monitoring servers that track heart rate, oxygen, and vital signs
+Database servers that store medical records
+Application servers that run clinical software
+Backup servers and network devices
+Value:
+
+Cost to replace: Hundreds of thousands of dollars
+Cost of downtime: Patient safety is put at risk
+Data at risk: Patient vital signs and medical records
+Attack Scenarios:
+
+Ransomware locks the monitoring servers
+Malware spreads through the hospital network
+Hackers access live patient data
+System downtime delays urgent care
+Bonus Context: School Computer Lab
+The same asset type appears in other settings. A school computer lab, with around 30 student computers, a teacher computer, and a network server, faces the same threats: ransomware locking the machines, malware spreading across the network, and downtime that disrupts classes.
+
+How Systems Get Attacked:
+Malware Infection:
+
+Virus or worm infects system
+System compromised
+Can spread to other systems
+Performance degraded
+Exploitation:
+
+Hackers exploit software vulnerabilities
+Gain unauthorized access
+Take control of system
+Use system for their purposes
+Denial of Service:
+
+Overwhelming system with traffic
+System becomes unavailable
+Users can't access it
+Business operations disrupted
+Physical Damage:
+
+Theft of physical system
+Destruction of hardware
+Environmental damage (fire, water)
+Loss of computing power
+
+What are Applications? Applications are software programs that run on systems. They're what actually do the work.(2)
+
+Types of Applications:
+Productivity Applications:
+Word processors (Microsoft Word, Google Docs)
+Spreadsheets (Excel, Google Sheets)
+Email clients (Outlook, Gmail)
+Presentation software (PowerPoint)
+Business Applications:
+Customer Relationship Management (CRM) systems
+Enterprise Resource Planning (ERP) systems
+Human Resources (HR) software
+Accounting software
+Project management tools
+Web Applications:
+Social media (Facebook, Instagram, TikTok)
+Email services (Gmail, Outlook)
+Cloud storage (Google Drive, OneDrive)
+Banking apps
+Shopping apps (Amazon, eBay)
+Security Applications:
+Firewalls
+Antivirus software
+Password managers
+VPN applications
+Custom Applications:
+Software developed specifically for an organization
+Internal tools
+Specialized business software
+Real Examples of Application Assets:
+Hospital Patient Portal App:
+Functions:
+
+View test results and diagnoses
+Book and manage appointments
+Request prescription refills
+Message doctors securely
+Value:
+
+Access to private patient information
+Medical fraud if compromised
+Patient trust is critical
+Attack Scenarios:
+
+Hackers inject malicious code
+Patients' credentials are stolen
+Medical records viewed or changed
+Patient confidence destroyed
+How Applications Get Attacked:
+Code Vulnerabilities:
+
+Flaws in the code
+Hackers exploit flaws
+Gain unauthorized access
+Can execute malicious code
+SQL Injection:(2)
+
+Inserting malicious database commands
+Extracting data
+Modifying data
+Deleting data
+Cross-Site Scripting (XSS):(2)
+
+Injecting malicious scripts
+Stealing user information
+Redirecting to malicious sites
+Phishing attacks
+Weak Authentication:
+
+Easy to guess passwords
+Easy to crack login
+Unauthorized access
+Account takeover
+
+What is Infrastructure? Infrastructure is the physical and network foundation that everything else depends on.(2)
+
+Types of Infrastructure:
+Network Infrastructure:
+Routers (direct network traffic)
+Switches (connect devices)
+Firewalls (protect networks)
+Modems (connect to internet)
+Cables (physical connections)
+WiFi access points
+Network servers
+Physical Infrastructure:
+Data centers (buildings housing servers)
+Office buildings
+Server rooms
+Networking closets
+Power supplies and generators
+Cooling systems
+Physical security (locks, cameras)
+Cloud Infrastructure:
+Cloud servers
+Cloud storage
+Cloud networking
+Cloud databases
+Virtual machines
+Containers
+Specialized Infrastructure:
+Telecom infrastructure
+Power grid systems
+Water treatment systems
+Transportation systems
+Critical infrastructure(3)
+Real Examples of Infrastructure Assets:
+Hospital Network and Power Backups:
+Components:
+
+Network routers, switches, and firewalls
+Server rooms and physical facilities
+Backup power generators
+Uninterruptible power supplies (battery backups)
+Cooling systems
+Physical security (locks and cameras)
+Value:
+
+Cost: Hundreds of thousands of dollars
+Downtime cost: Patient safety at risk
+Depends on it: Every system and device in the hospital
+Keeps life-support equipment running
+Attack Scenarios:
+
+DDoS attack floods the hospital network
+Power or backup systems are attacked
+Physical break-in to the server room
+Backup generators fail during an outage
+Bonus Context: Power Grid Infrastructure
+Infrastructure matters far beyond one building. The power grid, with its generation facilities, transmission lines, and control systems, powers millions of homes. If attackers disable it, whole regions lose electricity and even hospitals can lose power, showing how one type of infrastructure depends on another.
+
+How Infrastructure Gets Attacked:
+DDoS Attacks:(2)
+
+Overwhelming network with traffic
+Network becomes unavailable
+Services cannot function
+Can last hours or days
+Network Interception:(2)
+
+Hacker intercepts network traffic
+Reads unencrypted data
+Modifies data in transit
+Impersonates legitimate devices
+Physical Attacks:
+
+Breaking into facilities
+Cutting cables
+Damaging equipment
+Stealing hardware
+Configuration Issues:
+
+Misconfigured firewalls
+Open network ports
+Unpatched network devices
+Weak default passwords
+
+What are Human Assets? People are assets because they:(1)
+
+Use and operate systems
+Make security decisions
+Can be manipulated by attackers
+Are often the weakest link in security
+Types of Human Assets:
+Employees:
+Full-time staff
+Part-time workers
+Contractors
+Consultants
+Interns
+Knowledge and Skills:
+Expert technical knowledge
+Understanding of business processes
+Experience with systems
+Relationships and trust
+Users:
+Customers
+Patients (in healthcare)
+Students (in schools)
+Anyone with accounts
+Why Human Assets Are Valuable:
+Insider Access:
+Employees have legitimate access
+Know system passwords
+Understand security procedures
+Can bypass controls
+Social Engineering Targets:
+Can be manipulated
+Tricked into giving information
+Fooled into clicking links
+Persuaded to break rules
+Knowledge:
+Know where valuable data is stored
+Understand business secrets
+Know system vulnerabilities
+Can explain security procedures
+Real Examples of Human Asset Attacks:
+Phishing a Hospital Staff Member:
+Scenario:
+
+Hacker emails a hospital nurse
+Pretends to be the hospital IT team
+Says the patient records system needs an urgent login
+Includes a link to a fake login page
+Nurse enters their username and password
+Hacker captures the credentials
+Result:
+
+Hacker accesses the hospital systems
+Staff member unknowingly helped the breach
+Patient data is compromised
+Hacker has legitimate-looking access
+How Human Assets Get Compromised:
+Social Engineering:(1)
+
+Manipulation and psychology
+Deceiving people
+Building false trust
+Getting people to break rules
+Phishing:
+
+Fake emails
+Appear legitimate
+Trick people into clicking
+Steal credentials
+Malware:
+
+Infect employee computers
+Monitor their activity
+Steal their data
+Use their access
+Blackmail:
+
+Threaten to expose personal info
+Force employee to cooperate
+Demand access or data
+Compromise security
+A Practical Example - Hospital:
+Data Assets:
+
+Patient medical records
+Diagnoses and prescriptions
+Insurance information
+Vital-sign readings
+System Assets:
+
+Patient monitoring servers
+Database servers
+Clinical application servers
+Backup servers
+Application Assets:
+
+Patient portal app
+Clinical software
+Pharmacy system
+Scheduling system
+Infrastructure Assets:
+
+Network and routers
+Internet connection
+Server room
+Backup power generators
+Human Assets:
+
+Doctors and nurses who use the systems
+IT staff who maintain the systems
+Administrative staff
+Security team
+How They Connect:
+
+Staff (human) use the patient portal (application)
+The application runs on systems (servers)
+Systems store data (patient records)
+Infrastructure supports it all
+Staff manage everything
+Attack Could Target Any:
+
+Steal patient records (data asset)
+Shut down monitoring servers (system asset)
+Compromise the patient portal (application asset)
+Take down the network or power (infrastructure asset)
+Phish a staff member (human asset)
+All Must Be Protected!
+
+Organizations need to know what assets they have and how valuable each is.(4)
+
+Asset Inventory:
+List all systems and servers
+List all applications
+Document all data
+Identify infrastructure
+Track personnel
+Asset Valuation:
+Cost to replace
+Cost of downtime
+Value of data contained
+Impact if compromised
+Regulatory importance
+Real Example - Hospital Asset Inventory:
+Critical Assets (Highest Priority):(4)
+
+Patient medical record systems (value: Life safety)
+Surgery systems (value: Patient safety)
+Monitoring systems (value: Life safety)
+High Value Assets:
+
+Insurance databases (value: Patient info)
+Pharmacy systems (value: Prescription data)
+Billing systems (value: Financial data)
+Medium Value:
+
+Email systems
+Office computers
+Scheduling systems
+Asset Type	Examples	Why Important	What Happens if Attacked
+Data	Medical records, financial info, customer databases	Contains valuable information	Theft, corruption, exposure, deletion
+Systems	Servers, computers, devices	Process and store information	Malware, downtime, unauthorized access
+Applications	Websites, software, business apps	Do the actual work	Bugs exploited, data stolen, service unavailable
+Infrastructure	Networks, data centers, internet	Foundation for everything	Downtime, data interception, physical damage
+Human Assets	Employees, users, knowledge	Operate systems and make decisions	Social engineering, phishing, insiders leaking info
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(3)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(4)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+
+---
+L2:
+⚠️
+Level 2
+Topic 2
+Threats, Vulnerabilities, Risks, and Attacks
+By the end of this topic, the learner should be able to:
+
+Define a vulnerability, a threat, a risk, and an attack.
+Distinguish clearly between these four related terms.
+Explain the relationship that connects them.
+Apply the terms to a real-world example.
+These four concepts are foundational to cybersecurity, but they're often confused. Let's define each one clearly and understand how they relate to each other.
+
+Think of it like home security:
+
+Threat: A burglar wanting to rob your house
+Vulnerability: An unlocked window or door
+Risk: The possibility that the burglar will successfully rob you
+Attack: The burglar actually breaking in and stealing
+Let's explore this in detail.
+
+What is a Threat?
+
+A threat is anything that could potentially harm your systems, data, or organization. It's the danger itself.(1)
+
+Key Idea: A threat exists whether or not you have defenses against it. The threat is about the attacker's intent and capability.(2)
+
+Examples of Threats:
+Cyber Criminals:
+
+Want to steal your data
+Want to commit financial fraud
+Want to ransom your files
+Want to extort money
+Nature:
+
+Earthquakes can destroy data centers
+Floods can damage equipment
+Lightning can strike systems
+Power outages can shut down servers
+Accidents:
+
+Employee accidentally deletes important files
+Someone spills coffee on a computer
+Wrong backup is restored
+Misconfiguration of security settings
+Competitors:
+
+Want to steal your trade secrets
+Want to harm your reputation
+Want to disrupt your business
+Want to gain competitive advantage
+Foreign Governments:
+
+Want to steal classified information
+Want to disrupt critical infrastructure
+Want to influence elections
+Want to gather intelligence
+Types of Threats:
+Internal Threats:
+
+Disgruntled employees
+Careless employees
+Accidental mistakes
+System failures
+External Threats:
+
+Hackers from anywhere
+Cybercriminals
+Foreign governments
+Competitors
+What is Vulnerability?
+
+A vulnerability is a weakness or flaw in your systems, applications, or processes. It's something that can be exploited.(1)
+
+Key Idea: A vulnerability exists whether or not anyone exploits it. It's a weakness waiting to be discovered.
+
+Examples of Vulnerabilities:
+Software Vulnerabilities:
+
+Unpatched software with known flaws
+Bugs in code
+Security flaws in programs
+Outdated applications
+Configuration Vulnerabilities:
+
+Weak passwords
+Default passwords never changed
+Unnecessary services running
+Open ports and protocols
+Misconfigured firewalls
+Human Vulnerabilities:
+
+Employees don't understand security
+People fall for phishing
+People use weak passwords
+People share credentials
+People leave systems unattended
+Physical Vulnerabilities:
+
+Unlocked doors
+No surveillance cameras
+Poor physical security
+Unattended equipment
+No access controls
+Process Vulnerabilities:
+
+No security procedures
+No incident response plan
+No backup systems
+No disaster recovery plan
+Poor access controls
+Real Example - Unpatched Software:
+Scenario:
+
+Software company discovers security flaw
+Releases patch (fix)
+Company A: Applies patch immediately
+Company B: Doesn't apply patch for months
+Company B has vulnerability:
+
+Security flaw exists in their software
+Patch available but not applied
+Hacker can exploit known flaw
+Company B is at risk
+Company A doesn't have this vulnerability:
+
+Patch applied
+Flaw is fixed
+Hacker cannot exploit it
+Company A is protected
+What is a Risk?
+
+A risk is the probability and impact of a threat exploiting a vulnerability. It's the likelihood that something bad will happen combined with the damage it would cause.(1)
+
+Impact describes the damage after an attack succeeds, while risk combines both the likelihood of the attack and its potential impact.
+
+Key Idea: Risk depends on THREE things:(4)
+
+Is there a threat? (Someone wanting to attack)
+Is there a vulnerability? (A weakness to exploit)
+What's the impact? (How much damage would it cause)
+Risk Formula:
+
+
+Understanding the Formula:
+Example 1: High Risk
+
+Threat: Yes (hackers actively targeting hospitals)
+Vulnerability: Yes (outdated unpatched systems)
+Impact: High (patient safety at risk, lives endangered)
+Result: HIGH RISK - Must be addressed immediately
+Example 2: No Risk
+
+Threat: Yes (hackers active)
+Vulnerability: No (systems fully patched, security strong)
+Impact: High (if it happened)
+Result: NO RISK - Vulnerability doesn't exist, so threat can't succeed
+Example 3: Low Risk
+
+Threat: Yes (hackers exist)
+Vulnerability: Yes (outdated system)
+Impact: Low (contains only public information)
+Result: LOW RISK - Even if compromised, limited damage
+Risk Assessment:
+Organizations assess risk to decide what to protect:(2)
+
+High Risk = Needs Maximum Protection
+
+Medical systems in hospitals
+Banking systems
+Power grid systems
+Nuclear facilities
+Medium Risk = Needs Good Protection
+
+School grade systems
+Employee records
+Business financial data
+Customer information
+Low Risk = Needs Basic Protection
+
+Public websites
+Marketing materials
+Published information
+General office files
+What is an Attack?
+
+An attack is when a threat takes action to exploit a vulnerability. It's the actual attempt to cause harm.(1)
+
+Key Idea: An attack is:
+
+Active (happening now)
+Deliberate (intentional)
+Taking advantage of vulnerability
+Attempting to cause harm
+Examples of Attacks:
+Malware Attack:(3)
+
+Hacker sends infected email
+Employee clicks attachment
+Malware infects computer
+Hacker gains access
+Phishing Attack:
+
+Hacker sends fake email pretending to be bank
+Email looks legitimate
+Customer enters login credentials
+Hacker steals credentials
+DDoS Attack:(3)
+
+Hacker floods server with requests
+Server overwhelmed
+Website becomes unavailable
+Business loses revenue
+Data Breach:
+
+Hacker breaks into system
+Steals customer data
+Data sold on dark web
+Customer privacy violated
+How They Connect:
+Relationship:
+
+Visual Example - House Security:
+Threat:
+
+Burglar exists (wants to rob houses)
+Vulnerability:
+
+Front door unlocked
+No alarm system
+No security cameras
+Valuable items visible in window
+Risk:
+
+Burglar could break in
+Steal valuable items
+Cause damage
+Put family at risk
+Attack:
+
+Burglar arrives at your house
+Tests front door (finds it unlocked)
+Enters house
+Steals items
+Escapes
+Damage:
+
+Items stolen
+Family traumatized
+Need to repair house
+Loss of money and safety
+How to Prevent:
+Eliminate Threat? (Usually impossible)
+
+Can't eliminate all burglars
+They always exist
+Burglars are part of the world
+Must assume threat exists
+Eliminate Vulnerability? (Best option)(4)
+
+Lock the front door (eliminates weakness)
+Install alarm system (adds protection)
+Install cameras (adds surveillance)
+Close curtains (removes temptation)
+Now burglar can't easily enter
+Reduce Impact? (Backup approach)
+
+Keep valuable items hidden
+Limit amount of cash at home
+Insurance in case theft
+Minimizes damage if burgled
+Result: Threat still exists (burglars are out there) But Vulnerabilities are eliminated So Attack is unlikely to succeed
+
+Did You Know? A Bank's Defenses
+A bank faces a constant threat from criminals who want to steal money, but that threat only becomes dangerous when weaknesses exist, such as weak passwords or no firewalls. By adding strong firewalls, encryption, and staff training, the bank removes those weaknesses, so even though the threat still exists, an attack is far less likely to succeed.
+
+WannaCry Ransomware Attack (2017)
+Threat:
+Cybercriminals spreading ransomware to lock files and demand money.
+Vulnerability:
+Many computers were running outdated software that had not been updated.
+Attack:
+The ransomware spread across networks, locked files on unpatched computers, and demanded payment to unlock them, reaching more than 200 countries.
+Result:
+Hundreds of thousands of computers were locked, hospitals and businesses were disrupted, and losses reached billions of dollars.
+Lesson Learned:
+Keeping software updated could have prevented most of the damage.
+Did You Know? Target Data Breach (2013)
+Threat: Cybercriminals wanting to steal credit card data.
+Vulnerability: A supplier with access to Target's network was not properly secured.
+Attack: The attackers got in through the supplier, reached the payment systems, and stole credit card details.
+Result: About 40 million credit cards were stolen and customer trust was badly damaged.
+Lesson Learned: Organizations must control and monitor the access they give to outside suppliers.
+Did You Know? Insider Threat and Corporate Espionage
+Threat: A competitor or foreign group wanting to steal trade secrets.
+Vulnerability: A trusted employee had access to secret files with little monitoring.
+Attack: The employee was paid to copy confidential files and send them outside the company.
+Result: Valuable trade secrets were lost and the company lost its competitive advantage.
+Lesson Learned: Monitoring access and having clear exit procedures help catch insider threats.
+Remember Topic 1 (Assets)?
+
+Did You Know? The Same Pattern Fits Every Asset
+The threat, vulnerability, risk, and attack relationship applies to every type of asset. With data, a hacker (threat) targets unencrypted files (vulnerability), the risk is that the data could be stolen, and the attack is the hacker copying the files. The same pattern fits systems, applications, infrastructure, and people, for example an untrained employee (vulnerability) who falls for a phishing message sent by a social engineer (threat).
+
+Concept	Definition	Key Idea	Example
+Threat	Potential danger or harm	Someone with intent to attack	Cybercriminal wanting to steal data
+Vulnerability	Weakness in systems/processes	Flaw that can be exploited	Unpatched software with known bug
+Risk	Probability of threat exploiting vulnerability	Likelihood and impact combined	High risk = active threat + existing vulnerability
+Attack	Actual attempt to exploit vulnerability	Active/deliberate exploitation	Hacker uses exploit to break into system
+🔗
+(1)Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+
+
+---
+L3:
+🎭
+Level 2
+Topic 3
+Threat Actors
+By the end of this topic, the learner should be able to:
+
+Define a threat actor and explain why identifying the attacker matters.
+Describe the motivation and skill level of five types of threat actor.
+Explain the difference between an external attacker and an insider threat.
+The previous topic defined a threat as a potential source of harm. Behind every threat, however, there is a person or a group that creates it. These people and groups are called threat actors.(1)
+
+A threat is the potential danger, while a threat actor is the person or group responsible for creating or carrying out that threat.
+
+Identifying the attacker is important because each type has a different motivation and a different level of skill, and understanding an adversary is the first step toward defending against it. This topic introduces five types of threat actor: cybercriminals, nation-state actors, hacktivists, insider threats, and script kiddies.(1)
+
+Cybercriminals are motivated above all by money. They attack in order to steal funds, to steal data that can be sold, or to lock systems and demand a payment to release them.(1)
+
+This group is the most widespread type of threat actor, because its motivation is simple and direct, namely financial gain. A typical example is a group that sends fraudulent emails to thousands of people in order to steal their payment card details. This category seeks profit, but the next type is far more dangerous and is not driven by money.(1)
+
+
+Nation-state actors are attackers supported by governments, and their motivation is political or military rather than financial. Their activities include spying on other countries and attempting to attack important infrastructure such as power stations.(1)
+
+This is the most dangerous and most capable type of threat actor, because it is backed by enormous resources, funding, and highly skilled experts. Fortunately, these attacks usually target nations and governments rather than ordinary individuals. They are nonetheless important to recognise, because they are the reason cybersecurity has become a part of national security. While these groups are driven by politics, the next type is driven by a cause or a message.(1)
+
+
+The word hacktivist combines hacker and activist, describing a hacker who acts in support of a cause. Hacktivists are not motivated by money, but by the wish to deliver a message or to defend a cause in which they believe.(1)
+
+Their activities include altering the appearance of a website in order to display their message, or leaking information in order to expose something they regard as wrong. They use intrusion as a form of protest. It is important to note that this activity remains illegal, even when those who carry it out believe they are defending a just cause. This type comes from outside an organization, but danger can also arise from within.(1)
+
+
+An insider threat is a danger that originates from a person inside the organization, such as an employee or anyone holding access permissions. This type is divided into two forms.(2)
+
+Remember
+Insider threats can be intentional or accidental. Both can cause serious security incidents.
+
+The first form is deliberate: an employee who is dissatisfied or greedy leaks data or harms the organization on purpose. The second form is accidental: a well-meaning but careless employee opens a fraudulent email or loses a laptop, causing a problem without intending to. Insider threats are especially dangerous because the person is already inside and already holds permissions. For this reason, employee awareness reduces this risk significantly. The final type returns to outsiders, and it is the least skilled but the most numerous.(2)
+
+
+Script kiddies are inexperienced attackers whose skills are limited. They do not know how to create attack tools of their own, but instead use ready-made tools created by others, often without fully understanding them.(1)
+
+
+Their motivation is usually curiosity, or the wish to prove to themselves or to their friends that they are capable. They are the least dangerous in terms of skill, but the most numerous in terms of number, and they can still cause harm if they find a weak system that has been carelessly protected. The table below summarises the five types of threat actor according to their motivation.
+
+Threat Actor	Main Motivation	Note
+Cybercriminals	Money	The most widespread type
+Nation-State Actors	Politics or military aims	The most dangerous and capable
+Hacktivists	A cause or a message	Use intrusion as protest
+Insider Threats	Varies; deliberate or accidental	Danger from inside the organization
+Script Kiddies	Curiosity or proving themselves	Use ready-made tools
+This topic introduced the main types of threat actor and their motivations.(1, 2)
+
+Cybercriminals are motivated by money and are the most widespread.
+Nation-state actors are politically motivated and the most capable.
+Hacktivists are motivated by a cause, and insider threats come from within an organization.
+Script kiddies are inexperienced attackers who rely on ready-made tools.
+Having identified who the attackers are, the next topic examines how an attack proceeds, through a sequence of stages known as the attack lifecycle.(1)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L4:
+🔄
+Level 2
+Topic 4
+Attack Lifecycle
+By the end of this topic, the learner should be able to:
+
+Explain why defenders study the stages through which an attack progresses.
+Describe the six stages of the attack lifecycle in order.
+Explain why detecting an attack at an early stage reduces the damage.
+The previous topics identified the attackers and the dangers they pose. This topic examines how an attack unfolds, because an attack does not happen in a single moment but progresses through a series of stages. These stages together are known as the attack lifecycle.(2)
+
+Defenders study these stages for a clear reason. If the path an attack follows is understood, the attack can be stopped at any stage before it is completed, and the earlier it is detected, the less damage it causes. To make the stages easy to follow, each is compared to the plan of a burglar intending to rob a large building. There are six stages: reconnaissance, initial access, execution, persistence, lateral movement, and exfiltration.(3)
+
+The Attack Lifecycle at a Glance
+The six stages flow in order, each one leading to the next.
+1
+Reconnaissance
+→
+2
+Initial Access
+→
+3
+Execution
+→
+4
+Persistence
+→
+5
+Lateral Movement
+→
+6
+Exfiltration
+In the first stage, reconnaissance, the attacker gathers information about the target before attacking. In the burglar example, this is the stage of watching the building, learning when the guards leave and where the doors are located.(2)
+
+In the digital domain, the attacker searches for information about an organization, its employees, and its systems, in order to find a weakness from which to begin. This connects directly to the idea of the digital footprint introduced in the first week: the more information that is publicly available about a target, the easier the reconnaissance stage becomes for the attacker. After gathering sufficient information, the attacker attempts to enter.(1)
+
+
+In the second stage, initial access, the attacker takes the first step inside the system by finding a way in. In the burglar example, this is finding the open door or window and entering through it.(2)
+
+In the digital domain, initial access is often achieved by deceiving an employee into opening a fraudulent email, or by exploiting a weak password. This is an important moment, because it is the first time the attacker is inside, and if the intrusion is detected here, the attacker can be removed quickly. Once inside, the attacker begins to carry out the purpose of the intrusion.(1)
+
+
+In the third stage, execution, the attacker begins to run malicious programs or to carry out actions within the system. In the burglar example, this is the stage of actually searching the building for valuables.(2)
+
+In the digital domain, the attacker runs harmful software, known as malware, in order to take control of a device or to begin gathering data. The types of malware used at this stage are examined in a later topic. A careful attacker, however, wishes to ensure continued access, which is the aim of the next stage.(2)
+
+
+In the fourth stage, persistence, the attacker creates a means of returning, even if the original point of entry is closed. In the burglar example, this is making a copy of a key so that the building can be entered again at any time.(2)
+
+In the digital domain, the attacker leaves a hidden back door, allowing a return to the system even after passwords are changed. For this reason, when a defender removes an attacker, it is essential to confirm that no means of return has been left behind. At this point the attacker is present on one device but wishes to reach more, which is the aim of the next stage.(2)
+
+
+In the fifth stage, lateral movement, the attacker moves from the device that was entered to other devices and systems within the same network. In the burglar example, this is moving from room to room in search of the most valuable items.(2)
+
+In the digital domain, the attacker travels from an ordinary employee’s device to more important devices that hold more valuable data, such as the device of a manager or the main server. The more the attacker moves, the greater the danger becomes, which is why monitoring the network helps to detect this unusual movement. After reaching the most valuable data, the attacker pursues the final goal.(2)
+
+
+In the sixth and final stage, exfiltration, the attacker takes the data that has been reached and transfers it out to themselves. In the burglar example, this is carrying the stolen valuables out of the building.(2)
+
+
+In the digital domain, the attacker copies sensitive data and sends it to their own device, in order to steal it, sell it, or use it to extort the organization. This is the stage at which the real harm, the impact, is realised. The table below summarises the six stages.
+
+Stage	What the Attacker Does	Burglar Example
+Reconnaissance	Gathers information about the target	Watching the building
+Initial Access	Gains the first entry	Entering through an open door
+Execution	Runs malicious actions	Searching for valuables
+Persistence	Secures a way to return	Copying a key
+Lateral Movement	Moves to other systems	Going room to room
+Exfiltration	Takes the data out	Carrying the goods away
+This topic described the six stages through which an attack progresses.(2, 3)
+
+Reconnaissance gathers information, and initial access gains the first entry.
+Execution runs malicious actions, and persistence secures a way to return.
+Lateral movement spreads to other systems, and exfiltration removes the data.
+Detecting an attack at any early stage reduces the damage it can cause.
+Because most attacks begin by deceiving people, the next topic examines that method in detail, under the heading of social engineering.(1)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(3)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+
+
+---
+L5:
+🎣
+Level 2
+Topic 5
+Social Engineering Attacks
+By the end of this topic, the learner should be able to:
+
+Define social engineering and explain why it targets people rather than machines.
+Describe five forms of social engineering and recognise the signs of each.
+State the practical rules that protect against these attacks.
+The previous topic observed that most attacks begin by deceiving a person rather than by breaking a machine. This method of attack is called social engineering, and it works by manipulating a person’s emotions and trust so that the victim hands over information or grants access willingly.(2)
+
+This subject is especially important for everyday users, because it targets anyone who uses the internet. The purpose of this topic is therefore to enable the reader to recognise these attacks and to protect against them. Five forms are examined: phishing, spear phishing, vishing, smishing, and pretexting.(1)
+
+Phishing is a fraudulent message, usually an email, that claims to come from a trusted source such as a bank or a well-known company. Its purpose is to deceive the recipient into entering their information or clicking on a harmful link.(2)
+
+A typical phishing message warns that an account is in danger and urges the reader to click a link immediately and sign in to secure it. The link leads to a counterfeit website that resembles the genuine one, and any password entered there is sent to the attacker. Several warning signs help to identify phishing: a sense of urgency and fear, spelling mistakes within the message, an unfamiliar sender address, and links whose appearance is not quite correct.(2)
+
+The guiding rule is never to click links in messages that cannot be verified, and never to enter a password except on the official website that the user has opened personally. Ordinary phishing is sent to thousands of people at once, but a more dangerous form is directed at a single person.(1)
+
+
+Spear phishing is phishing aimed at one specific person rather than at the general public. The attacker first gathers information about the target, such as their name, school, and interests, and then sends a tailored message that appears highly convincing.(2)
+
+Instead of a generic message, the victim receives a message addressed to them by name that refers to something they genuinely care about, making it far easier to trust. The distinction can be expressed as a comparison: ordinary phishing is like a net cast over a whole crowd, whereas spear phishing is like a spear aimed at one individual. This focus makes it more dangerous and harder to detect. The next forms move beyond written messages.(2)
+
+
+The term vishing combines voice and phishing, and it describes deception carried out through a telephone call. The attacker calls the victim, claims to be from a bank or a technical support service, and attempts to persuade the victim to reveal sensitive information over the phone.(2)
+
+A common example is a caller who claims to be from the bank, reports a problem with the account, and asks the victim to confirm the card number and password. The essential rule of protection is that a genuine organization will never ask for a password or a secret code over the telephone. If such a request is received, the correct response is to end the call and contact the official organization independently. Deception can also arrive through short text messages.(1)
+
+
+The term smishing combines SMS, meaning a short text message, with phishing. In this form, the attacker sends a text message to the victim’s phone containing a harmful link or a request for information.(2)
+
+A frequent example is a message announcing that the recipient has won a prize and inviting them to click a link to claim it, where the link is of course a trap. The same rule applies as before: a message that promises something unusually generous, or that frightens the recipient into acting quickly, is a sign of danger, and the link should not be clicked. The previous forms rely on a single message, but the final form relies on an entire invented story.(1)
+
+
+The word pretext means an invented excuse or reason. Pretexting therefore describes an attack in which the attacker invents a false story or identity in order to win the victim’s trust and extract information.(2)
+
+
+Rather than sending a single message, the attacker constructs a complete and convincing scenario. For example, a caller may claim to be from the information technology department of the victim’s school, offering to help with an account problem but requesting the password in order to fix it. The entire story is fabricated in order to earn trust. The protection is to verify a person’s identity through an official source before providing any information, however convincing the story may seem. The table below summarises the five forms.
+
+Form	Method	Key Feature
+Phishing	Fraudulent message to many people	Broad and general
+Spear Phishing	Message aimed at one person	Tailored and convincing
+Vishing	Deception by phone call	Uses the voice
+Smishing	Deception by text message	Uses an SMS link
+Pretexting	A complete invented story	Builds false trust
+This topic examined social engineering, the deception of people in order to gain access or information.(1, 2)
+
+Phishing is a fraudulent message sent broadly, while spear phishing targets one specific person.
+Vishing uses a phone call, and smishing uses a text message.
+Pretexting builds a complete false story to win trust.
+All of these forms target emotions, so verifying before acting is the strongest protection.
+Having examined attacks that target people, the next topic turns to attacks that target the devices themselves, in the form of malware.(3)
+
+🔗
+(1)Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+
+---
+L6:
+🦠
+Level 2
+Topic 6
+Malware Attacks
+By the end of this topic, the learner should be able to:
+
+Define malware and explain what the term means.
+Describe how a virus, a worm, a Trojan, spyware, and ransomware behave.
+State the common measures that protect against malware.
+The previous topic examined how attackers deceive people. This topic turns to the weapon that attackers use against the devices themselves, which is known as malware. The word malware combines malicious, meaning harmful, with software, meaning a program, and it describes any harmful program created to damage a device or steal its data.(2)
+
+Understanding the different forms of malware allows a user to recognise the danger and to protect against it. This topic examines five forms: the virus, the worm, the Trojan, spyware, and ransomware.(2)
+
+A virus is a harmful program that attaches itself to a legitimate file or program and spreads when that file is run or passed from one person to another. It requires two things in order to spread: a file to attach to, and the action of a user opening that file.(2)
+
+A virus can be compared to a common cold that passes between people when they come into contact, because some form of contact is required for it to spread. A typical example is a file downloaded from an untrusted source; the moment it is opened, the virus runs and begins to harm the device and to attempt to spread to other files. A virus depends on a user opening a file, but the next form spreads without waiting for anyone.(2)
+
+
+A worm resembles a virus, but with one major difference: it spreads by itself, without needing a file to attach to and without requiring any action from a user. Once it enters a network, it copies itself and crawls from one device to another at great speed.(2)
+
+A worm can be compared to an illness that spreads through the air without the need for contact, which makes it faster and more dangerous in its spread than a virus. A worm that enters a company network may reach hundreds of devices within minutes, without anyone clicking on anything. The previous forms reveal themselves as harmful, but the next form disguises itself as something useful.(2)
+
+
+A Trojan is a harmful program that disguises itself as a legitimate and useful program, so that the user installs it while believing it to be safe. The name comes from the ancient story of the wooden horse of Troy, which appeared to be a gift but concealed soldiers inside.(2)
+
+A Trojan therefore looks attractive on the outside but is dangerous within. It may appear to be a free game or a counterfeit program, but once installed it opens a door in the device for the attacker. The protection against this form is to download programs and games only from official sources, and never to install anything from unknown websites that promise paid software at no cost. The previous forms cause damage or spread, but the next form watches in silence.(1)
+
+
+The word spyware derives from spy, and it describes a program that secretly observes the user and collects information without their knowledge. It may record what is typed on the keyboard, capture images of the screen, or track the websites that are visited, and then send all of this to the attacker.(2)
+
+The danger of spyware lies in its silence, because a device may continue to operate normally while someone is observing it without the user’s awareness. Certain signs may suggest its presence, such as a device that suddenly becomes slow or an unusual amount of internet activity. Protection comes from using antivirus software and avoiding suspicious programs. The final form is widespread and openly demands payment.(2)
+
+
+The word ransom refers to a payment demanded for release. Ransomware is a program that locks the user’s files or entire device and demands a payment in order to unlock them. It encrypts the data so that it remains present but cannot be opened, and then displays a message demanding payment for its return.(2)
+
+
+This is one of the most dangerous forms, and it is responsible for halting entire companies and hospitals, as noted in the discussion of real-world incidents in the first week. The most important protection against it is simple: keeping a backup copy of one’s files in a separate location, so that even if the files are locked, another copy remains available. The table below summarises the five forms of malware.
+
+Malware Type	Behaviour	Key Feature
+Virus	Attaches to a file and spreads when opened	Needs a user to act
+Worm	Spreads by itself across a network	Needs no user action
+Trojan	Disguises itself as a safe program	Hidden danger
+Spyware	Secretly watches and collects information	Operates in silence
+Ransomware	Locks files and demands payment	Demands a ransom
+This topic examined the main forms of malware and how to defend against them.(1, 2)
+
+A virus attaches to a file and spreads when the file is opened.
+A worm spreads by itself, and a Trojan disguises itself as a safe program.
+Spyware watches in secret, and ransomware locks files and demands payment.
+Common protections include trusted sources, antivirus software, updates, and backups.
+Having examined attacks on people and on devices, the final topic of the week considers attacks that target the network itself.(2)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+
+---
+L7:
+🌐
+Level 2
+Topic 7
+Network-Based Attacks
+By the end of this topic, the learner should be able to:
+
+Explain what a network-based attack is and why the network itself can be a target.
+Describe a denial-of-service attack, a man-in-the-middle attack, a DNS attack, and packet sniffing.
+Connect each attack to the principle of the CIA Triad that it threatens.
+State the common measures that protect against these attacks.
+The earlier topics examined attacks on people, through social engineering, and attacks on devices, through malware. This topic addresses the third category: attacks on the network itself, known as network-based attacks.(2)
+
+The first week explained that devices are linked together over the internet in a connected system. The connections themselves can become a target for attack. This topic examines four forms: the denial-of-service attack, the man-in-the-middle attack, the DNS attack, and packet sniffing, with attention throughout to which principle of the CIA Triad each one threatens.(2)
+
+A denial-of-service attack, in its larger form abbreviated as DDoS for distributed denial of service, floods a website or server with an enormous volume of false requests at the same moment, until the service can no longer cope and goes offline.(2)
+
+The effect can be compared to a small shop into which a thousand false visitors suddenly crowd all at once, so that genuine customers can no longer enter or be served. This attack strikes directly at the principle of availability from the CIA Triad, because it prevents a service from remaining available to its users. The next attack threatens privacy by listening in on a connection.(2)
+
+
+In a man-in-the-middle attack, the attacker secretly places themselves between the user and the website the user is communicating with, without either side noticing. All the information passing between them travels through the attacker first, who is able to read it and even to alter it.(2)
+
+The situation can be compared to sending a letter to a friend through a messenger who opens and reads the letter, and who may change its contents, before delivering it, while neither the sender nor the recipient is aware. This attack threatens two principles of the CIA Triad: confidentiality, because the attacker reads the messages, and integrity, because the attacker can change them. Protection comes from noticing that secure websites begin their address with HTTPS, where the letter S indicates that the connection is encrypted, and from avoiding sensitive activities on public Wi-Fi networks. The next attack tampers with the directory of the internet itself.(2)
+
+
+To understand this attack, the term DNS must first be explained. DNS stands for Domain Name System, and it can be compared to the telephone directory of the internet. When a user types the name of a website, the DNS translates that name into the real address of the site so that the device can reach it.(2)
+
+In a DNS attack, the attacker tampers with this directory, so that when the user types the genuine name of a website, the altered directory sends them to a counterfeit site that closely resembles it. The user believes they are on the correct site, but are in fact on a trap, and any information they enter is sent to the attacker. Protection comes from always verifying the address of a website and looking for the secure HTTPS indicator before entering any sensitive information. The final attack relies on capturing data as it travels.(2)
+
+
+Information travels across a network in small pieces called packets. The word sniffing means capturing, so packet sniffing describes an attacker capturing these packets as they move through the network and reading them.(2)
+
+If the data is not encrypted, the attacker can see everything that is sent and received, including messages and passwords. The danger increases on public networks, such as the Wi-Fi found in cafes and public places, because anyone on the network may attempt to capture the data. The principal protection is encryption: when data is encrypted, an attacker who captures it cannot read it, finding only meaningless characters. The table below summarises the four attacks and the principle each one threatens.
+
+
+Attack	What It Does	CIA Principle Threatened
+Denial of Service	Floods a service until it goes offline	Availability
+Man-in-the-Middle	Intercepts and alters communication	Confidentiality and Integrity
+DNS Attack	Redirects users to a fake website	Confidentiality and Integrity
+Packet Sniffing	Captures data travelling on the network	Confidentiality
+This topic examined the main attacks that target the network itself.(1, 2)
+
+A denial-of-service attack floods a service and threatens availability.
+A man-in-the-middle attack intercepts communication and threatens confidentiality and integrity.
+A DNS attack redirects users to a fake website, and packet sniffing captures data on the network.
+Common protections include the secure HTTPS connection, encryption, and avoiding public networks for sensitive tasks.
+This topic completes the study of cyber threats and attacks. The following week turns to the other side of the subject, examining how organizations defend themselves against all of these dangers.(2)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+
+
+--------------------------
+Week 13 
+L1:
+🛡️
+Level 2
+Topic 1
+Introduction to Security Controls
+By the end of this topic, the learner should be able to:
+
+Define a security control and give everyday examples of one.
+Explain the purpose of controls in protecting assets.
+Explain how controls achieve risk reduction rather than complete safety.
+Describe security management and the principle of defence in depth.
+The first week of this course established the foundations of cybersecurity, and the second week examined the threats and attacks that endanger digital assets. This week turns to the most practical part of the subject: how organizations defend themselves against those attacks. (2)
+
+The primary tool of defence is the security control. This topic introduces the idea by examining three matters: the purpose of controls, the way they reduce risk, and the organised process by which they are chosen and managed. These ideas prepare the reader for the specific types of control studied in the topics that follow. (4)
+
+A security control is any measure or means put in place to protect assets and to reduce risk. In simple terms, it is any step taken to make the task of an attacker more difficult. (4)
+
+Security controls help maintain the confidentiality, integrity, and availability of information by preventing unauthorized access, detecting harmful activity, and supporting recovery when incidents occur.
+
+Controls are not necessarily complex. The password on a phone is a control, the lock on the door of a house is a control, and even the habit of not opening unfamiliar links is a kind of control. A control is therefore any means of protection, whether it takes the form of a rule, a program, or a physical lock. (1)
+
+Having defined what a control is, the next question concerns the reason for putting controls in place.
+
+
+The central purpose of any control is to protect assets from the threats studied in the previous week. The assets identified earlier, namely data, devices, software, networks, and people, are precisely what controls exist to defend. (4)
+
+In the same way, the threats studied earlier, such as malware, phishing, and network attacks, are precisely what controls exist to stop. A control therefore acts as the link that stands between a valuable asset and the danger that seeks to reach it. The most important outcome that controls achieve is the reduction of risk, which is examined next. (4)
+
+
+The previous week defined risk as the likelihood that a threat exploits a vulnerability and causes harm, and explained that risk falls when vulnerabilities are closed. A security control is the tool that closes those vulnerabilities and thereby reduces risk. (4)
+
+For example, a weak password is a vulnerability that increases risk; replacing it with a strong password and multi-factor authentication greatly reduces the chance that an attacker can exploit that weakness. An important truth must be stated clearly, however: there is no such thing as perfect safety. The goal is not to eliminate risk entirely, which is impossible, but to reduce it to the lowest level that can reasonably be achieved. This is the meaning of risk reduction. (4)
+
+
+To select and apply the right controls, an organised approach is required, which is the final idea in this topic.
+
+Some controls prevent attacks, others detect suspicious activity, and others help restore systems after an incident. Effective security uses all three.
+
+Security management is the organised process by which suitable controls are chosen, applied, monitored, and updated. Controls are not placed at random; instead, an organization considers which assets are most important and which risks are greatest, and then applies the controls that best address each risk. (5)
+
+
+A central principle of security management is known as defence in depth, which means layered protection. The idea is not to rely on a single means of protection, but to place many layers one behind another, so that if one layer fails, the layer behind it stops the attacker. (3)
+
+
+An old castle illustrates the principle well. It is surrounded by a moat, a high wall, guards, and an iron gate. If an attacker passes one obstacle, others still remain. This layered arrangement is the essence of defence in depth, and it guides the way controls are combined. (3)
+
+This topic introduced the security control as the primary tool of defence. (1, 4)
+
+A security control is any measure put in place to protect assets and reduce risk.
+The purpose of controls is to protect assets from threats.
+Controls work by reducing risk, not by eliminating it completely.
+Security management organises this work, guided by the principle of defence in depth.
+Controls fall into three broad types. The next topic examines the first of these, which concerns people and rules, known as administrative controls. (5)
+
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L2:
+📋
+Level 2
+Topic 2
+Administrative Controls
+By the end of this topic, the learner should be able to:
+
+Define administrative controls and explain why they focus on people and rules.
+Distinguish between a policy, a procedure, and a standard.
+Explain the role of security awareness training in protecting an organization.
+The previous topic explained that security controls fall into three broad types. This topic examines the first type, the administrative controls, which are concerned not with programs or devices but with people and rules. They are the laws and the steps that organise the behaviour of employees so that they work safely. (5)
+
+The first week described people as one of the pillars of protection. Administrative controls are the measures that strengthen that pillar. This topic examines four of them: policies, procedures, security awareness training, and standards. (2)
+
+In addition to these, administrative controls also include governance and compliance activities, such as assigning security responsibilities, overseeing security decisions, and verifying that the organization follows its own rules and any applicable laws and regulations.
+
+A policy is a general rule that states what is required and what is not permitted within an organization. It expresses what must happen, without entering into the detail of how it is to be done. (5)
+
+For example, a policy may state that all employees must use strong passwords. This is a general rule that sets the goal. Policies can be compared to the general rules of a school, such as the requirement to arrive on time and to respect one’s classmates: they are principles that govern the conduct of everyone. A policy states what is required, but it does not state the exact steps, which is the role of the next control. (5)
+
+
+A procedure is the detailed set of steps that explains exactly how a policy is to be carried out, one step at a time. Where a policy sets the goal, a procedure provides the method. (5)
+
+For instance, if a policy requires employees to report any suspicious email, the procedure explains how: first, do not click any link; second, send the email to the security department; third, delete it. The distinction is therefore simple and clear: a policy states what is required, while a procedure states how it is to be done. The value of procedures is that they cause everyone to act in the same correct manner, which reduces mistakes. Rules and steps are of little use, however, if people do not understand them or are unaware of the danger, which is the role of the next control. (5)
+
+
+Security awareness training is instruction given to employees so that they learn to recognise threats and respond correctly. It directly addresses the human weakness that attackers exploit. (2)
+
+The previous week examined social engineering attacks such as phishing, and the strongest defence against them is for people to be aware and able to recognise them. This training teaches an employee how to distinguish a genuine email from a fraudulent one, how to create a strong password, and what to do when something appears suspicious. Because people are often the weakest point, raising their awareness closes the largest vulnerability of all. Awareness training is most effective when it is continuous rather than a single event: regular refresher sessions, simulated phishing exercises, and updated guidance keep employees prepared as threats evolve. The final control returns precision to the rules by expressing them in exact terms. (2)
+
+
+A standard is a specific and mandatory requirement that converts a general policy into a precise condition that everyone must follow. It removes the vagueness that a policy alone may leave. (5)
+
+
+Returning to the earlier example, a policy may require a strong password, but the word strong is open to interpretation. A standard removes the ambiguity by stating exactly what is required, for instance that a password must be no fewer than twelve characters and must contain numbers and symbols. In this way, a policy sets the goal, a standard sets the precise condition, and a procedure sets the steps, so that the three work together. For example, a company policy requires strong passwords. The standard specifies that passwords must contain at least 12 characters, numbers, and symbols. The procedure explains how employees create or reset their passwords in the company system. The table below summarises the four administrative controls.
+
+Control	What It Does	Example
+Policy	States the general requirement	Passwords must be strong
+Procedure	Gives the detailed steps	How to report a suspicious email
+Awareness Training	Teaches people to recognise threats	Spotting a phishing message
+Standard	Sets a precise, mandatory condition	At least twelve characters
+This topic examined the administrative controls, which protect through people and rules. (5, 2)
+
+Policies are general rules that state what is required.
+Procedures are the detailed steps that explain how to carry out a policy.
+Security awareness training teaches people to recognise threats.
+Standards are precise, mandatory conditions that remove ambiguity.
+Administrative controls form the first layer of defense by guiding employee behavior and reducing human errors before technical or physical controls are needed.
+
+Administrative controls protect by organising the behaviour of people, but people alone are not enough. The next topic examines the technological tools that protect alongside them, known as technical controls. (3)
+
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L3:
+💻
+Level 2
+Topic 3
+Technical Controls
+By the end of this topic, the learner should be able to:
+
+Define technical controls and explain their role in defence.
+Describe the function of a firewall, antivirus, EDR, MFA, and a SIEM.
+Connect each technical control to the threat it helps to defend against.
+The previous topic examined the controls that organise the behaviour of people. This topic examines the second type, the technical controls, which are the tools and programs that protect systems by technological means. They are the technology that stands directly in the path of an attacker. (3)
+
+Each of the tools examined here defends against a particular kind of threat studied in the previous week. This topic introduces five of them: the firewall, antivirus, EDR, MFA, and the SIEM. (3)
+
+A firewall is a guard that controls the connections entering and leaving a network, and decides which are permitted to pass and which are blocked. It can be imagined as a checkpoint at a gate. (3)
+
+Every connection that seeks to enter the network must first pass through the firewall. If the connection is trusted, it is allowed through; if it is suspicious, it is blocked. In this way, the firewall forms the first line of defence at the boundary of the network, stopping many harmful connections before they ever reach the devices inside. A firewall protects the boundary, but if something harmful passes through, the device itself must be protected, which is the role of the next tool. (3)
+
+
+Antivirus is a program that detects the malware studied in the previous week and removes it from a device. The viruses, Trojans, and spyware examined earlier are precisely what it is designed to find. (3)
+
+Antivirus operates much like the immune system of the body: it scans files, and as soon as it finds something harmful, it acts to remove it. To remain effective, it must be updated continually, so that it can recognise the new forms of malware that appear each day. Antivirus is valuable, but attackers have grown more sophisticated, which led to a newer and more capable tool. (3)
+
+
+The term EDR stands for Endpoint Detection and Response. An endpoint is any device at the edge of a network, such as a laptop or a phone, and EDR is an advanced protective system installed on such devices. (3)
+
+The difference between EDR and antivirus is significant. Antivirus focuses on finding and removing malware, and while modern antivirus solutions often include behavioural and heuristic detection in addition to recognising known malware, their role remains centred on detection and removal. EDR goes further by continuously monitoring the behaviour of the whole device, so that if it notices unusual activity, even from a new and unknown program, it detects the activity and acts at once. It does not merely detect but also provides investigation and response capabilities, for example by isolating an infected device to prevent the problem from spreading. The tools so far have protected networks and devices; the next tool protects the accounts that attackers most often target. (3)
+
+
+The term MFA stands for Multi-Factor Authentication. The first week introduced authentication as the process that confirms a user’s identity, and MFA strengthens that process. (3)
+
+Instead of relying on a password alone, MFA requires a second proof of identity. After the password is entered, the system sends a code to the user’s phone or requests a fingerprint. This is highly effective, because even if an attacker discovers the password, they cannot enter without the phone or the fingerprint, and so they are stopped at the second barrier. MFA is among the simplest and strongest protections available, and it is recommended for all accounts. All of these tools generate many events, and a final tool gathers and analyses them. (3)
+
+
+The term SIEM stands for Security Information and Event Management. A SIEM is a system that collects the records and events from all the devices and tools across an organization into one place and analyses them together. (2)
+
+
+This is valuable because a single event seen alone may appear ordinary, but when a SIEM gathers many events from different places, it can link them and detect signs of an attack. It can be compared to a control room that holds all of the monitoring screens in one place, where the person watching sees the complete picture and notices what could not be seen on any single screen. A SIEM therefore does not replace human analysts; it supports them by gathering and correlating events so that the security team can investigate and respond more effectively. The SIEM is the heart of the security operations centre examined in the final topic of the week. The table below summarises the five technical controls.
+
+Control	Function	Defends Against
+Firewall	Controls connections at the network boundary	Harmful network connections
+Antivirus	Detects and removes malware	Viruses, Trojans, spyware
+EDR	Watches device behaviour and responds	New and unknown threats
+MFA	Adds a second proof of identity	Stolen passwords
+SIEM	Collects and analyses events centrally	Hidden, coordinated attacks
+This topic examined the technical controls that protect systems by technological means. (3, 2)
+
+A firewall controls connections at the boundary of the network.
+Antivirus detects and removes malware, and EDR watches device behaviour and responds.
+MFA protects accounts with a second proof of identity beyond the password.
+A SIEM collects and analyses events from across the organization to detect attacks.
+For example, a phishing email bypasses the firewall, antivirus detects the malicious attachment, EDR isolates the infected device, MFA prevents the attacker from accessing user accounts, and the SIEM alerts the security team by combining events from multiple systems.
+
+Technical controls provide automated protection, but they are most effective when combined with administrative controls, such as security policies and awareness training, and physical controls that protect facilities and equipment.
+
+Rules and technology have now been covered, but one type of control remains, concerning the protection of physical objects that can be touched. This is the subject of the next topic. (5)
+
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L4:
+🔒
+Level 2
+Topic 4
+Physical Controls
+By the end of this topic, the learner should be able to:
+
+Explain why cybersecurity includes the protection of physical objects.
+Describe the role of security guards, CCTV, locks, and access badges.
+Connect physical controls to the principles of authorization and accountability.
+The previous topics examined the protection of rules and people, and protection through technology. This topic examines the third and final type, the physical controls, which protect the objects that can be touched.(3)
+
+An important point is often overlooked: cybersecurity is not only a matter of programs. If an attacker steals the server itself, or enters the room in which the devices are kept, they reach the data without needing to break any program. For this reason, physical objects must be protected. This topic examines four measures: security guards, CCTV, locks, and access badges.(3)
+
+Security guards are people who stand at the entrances and confirm that those who enter are permitted to do so. They form the human line of defence at the door.(3)
+
+Guards watch, question, and prevent the entry of any stranger or suspicious person. Their particular strength is that they can make a judgement in the moment, which neither a camera nor a lock can do; if something unusual occurs, a guard reacts immediately. A guard, however, cannot watch everywhere at once, and so additional eyes are needed to observe continuously, which is the role of the next control.(3)
+
+
+The term CCTV stands for Closed-Circuit Television, and it refers simply to the cameras that record what takes place. These cameras operate in two ways.(3)
+
+The first is deterrence: the moment a person sees a camera, they think carefully before doing anything wrong. The second is the recording of evidence: if a problem occurs, the recording can be examined to determine who did what and when. The first week introduced the principle of accountability, which holds that every action should be recorded. CCTV is accountability applied to the physical world. Guards and cameras observe, but a means is also needed to close doors physically, which is the role of the next control.(3)
+
+
+Locks are the devices that secure doors and sensitive rooms, such as the room that holds the servers. They are the simplest and oldest measure, yet they remain among the most important, because they directly prevent physical access to the most valuable devices.(3)
+
+Locks may be traditional, opened with a key, or electronic, opened with a code or a fingerprint, but the purpose is the same: a door should open only for a person who has permission. In the digital world, protection is provided by a password, and in the physical world, it is provided by a lock; the idea is the same, applied in two different places. In a large building with many people and many doors, however, ordinary locks become impractical, and a more intelligent system is required.(3)
+
+
+An access badge is a card carried by an employee that determines exactly where they are permitted to enter. The card is held near a reader at the door, and the door opens only if the holder is authorised to enter that particular place.(3)
+
+
+The first week introduced authorization, which determines what a user is permitted to do. The access badge is authorization applied to the physical world. An ordinary employee’s card opens the ordinary doors, but the server room opens only for the cards of those who are specifically permitted. A further benefit is that the card records who entered which place and when, providing accountability as well. The table below summarises the four physical controls.
+
+Control	What It Does	Related Principle
+Security Guards	Human judgement at the entrance	Prevention and response
+CCTV	Records activity and deters wrongdoing	Accountability
+Locks	Prevent physical access to devices	Confidentiality
+Access Badges	Control who may enter which place	Authorization and accountability
+This topic examined the physical controls that protect objects that can be touched.(1, 3)
+
+Security guards provide human judgement at the entrance.
+CCTV records activity and deters wrongdoing.
+Locks prevent physical access to important devices.
+Access badges control who may enter which place and record their entry.
+The three types of control have now been examined. The next topic considers a different way of classifying controls, according to the function each one performs.(2)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(3)International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L5:
+⚙️
+Level 2
+Topic 5
+Control Functions
+By the end of this topic, the learner should be able to:
+
+Explain that controls can be classified by their function as well as by their type.
+Describe the five control functions and when each one acts relative to an attack.
+Give an example of each function.
+The previous topics classified controls by their type as administrative, technical, or physical. This topic introduces a second and equally important way of classifying them, according to their function, that is, according to what each control actually does and when it acts in relation to an attack. (4)
+
+The first week described the goals of security as protecting, detecting, and responding, and this classification develops that idea further. Five functions are examined, arranged by their timing relative to an attack, before it, during it, and after it: preventive, detective, corrective, recovery, and compensating. (4)
+
+A preventive control acts before an attack, in order to stop it from happening at all. Its aim is to halt a problem before it ever begins. (4)
+
+Examples include the lock on a door, the firewall, multi-factor authentication, and the training of employees, all of which prevent an attack before it starts. This is the most desirable function, because prevention is always better than cure. It must be acknowledged, however, that no prevention is perfect, which is why the next function is needed. If an attack does succeed and begins, something must detect it. (4)
+
+
+A detective control acts during an attack, or after it has occurred, by detecting that it is taking place. It does not prevent the attack, but it reveals it and gives warning that something is wrong. (4)
+
+Examples include CCTV cameras, alerting systems, the records known as logs, and the SIEM. The previous week examined the attack lifecycle, and detective controls are what allow defenders to catch an attacker at any stage before the attack is completed. Once an attack has been detected, the damage must be stopped, which is the role of the next function. (4)
+
+
+A corrective control acts after an attack has been detected, in order to stop the damage and repair the problem. Once it is known that an attack is occurring, the corrective control works to limit it. (4)
+
+Examples include removing malware from a device, isolating an infected device from the network so that the problem cannot spread, and closing an account that has been compromised. Where the detective control announces that there is a problem, the corrective control stops and repairs it. The damage may be stopped, but the affected systems must then be restored, which is the role of the next function. (4)
+
+
+A recovery control restores systems and data to their normal state after an attack. Its purpose is to return operations to working order and to make services available once again, which connects to the principle of availability from the first week. (4)
+
+The best-known example is the backup, the spare copy of data. The previous week noted that a backup is the protection against ransomware, and a backup is precisely a recovery control. If files are locked or deleted, the recovery control restores them from the spare copy, as though the attack had not occurred. The distinction between corrective and recovery controls is worth stating clearly: a corrective control deals with the incident itself, by stopping the damage and fixing the immediate problem, whereas a recovery control deals with the aftermath, by returning systems, data, and services to their normal working state. In short, correction ends the harm, while recovery restores what was lost. One function remains, which is used when the ideal control cannot be applied. (4)
+
+
+A compensating control is an alternative measure used when the ideal control cannot be applied for some reason. It is a substitute that makes up for the absence of the primary measure. (4)
+
+
+An everyday comparison helps to make the idea clear. If the alarm in a shop has broken and has not yet been repaired, an additional guard may be placed to watch until it is fixed; the additional guard is a compensating control. In the digital world, if an older system cannot support multi-factor authentication, the organization may compensate by monitoring that system more closely and limiting who can reach it. This is not the ideal solution, but it reduces the risk until a better one is found. The table below summarises the five functions by their timing.
+
+Function	Timing	Example
+Preventive	Before the attack	Lock, firewall, MFA, training
+Detective	During the attack	CCTV, alerts, logs, SIEM
+Corrective	After detection	Removing malware, isolating a device
+Recovery	After the attack	Restoring data from a backup
+Compensating	When the ideal control is unavailable	Extra monitoring as a substitute
+This topic classified controls by the function each one performs. (4, 1)
+
+A preventive control acts before an attack to stop it.
+A detective control acts during an attack to reveal it.
+A corrective control stops the damage, and a recovery control restores normal operation.
+A compensating control is a substitute used when the ideal control is unavailable.
+The detective function proved especially important, and the next topic examines it in practice, under the heading of monitoring and detection. (4)
+
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+---
+L6:
+📡
+Level 2
+Topic 6
+Monitoring and Detection
+By the end of this topic, the learner should be able to:
+
+Explain how detection works in practice through a sequence of steps.
+Describe logging, alerting, security monitoring, and threat detection.
+Explain why distinguishing a real threat from a false alarm is important.
+The previous topic showed that the detective function is essential to defence. This topic examines that function in practice and explains how detection actually works, through four steps that build upon one another.(2)
+
+The four steps are logging, alerting, security monitoring, and threat detection. They form a logical sequence that runs from the recording of an event to the identification of a genuine threat, and each step depends on the one before it.(2)
+
+Logging is the recording of every event that occurs within a system into a record known as a log. The log states who entered, at what time, what was opened, and what was done.(2)
+
+The first week introduced the principle of accountability, that every action should be recorded, and logging is the practical application of that principle. Logs are the foundation of everything that follows, because nothing can be detected without a record of it; they are the raw material on which detection works. Logs, however, are enormous, containing thousands of events every second, far too many for any person to read by hand, which is why a means is needed to draw attention to what matters.(2)
+
+
+Alerting is the automatic notification that a system sends when it finds something suspicious within the logs. Instead of a person searching through millions of events, the system itself raises its hand and signals that something is unusual.(2)
+
+For example, if an account attempts to log in incorrectly fifty times in one minute, this is not normal behaviour, and the system immediately produces an alert. Alerting can be compared to a fire alarm, which does not wait for someone to notice the smoke but sounds by itself the moment it senses danger. Alerts indicate where to look, but a person must actually be watching at all times, which is the next step.(2)
+
+
+Security monitoring is the continuous observation of systems and alerts, carried out around the clock. A team or a system watches the screens at all times, every hour of every day.(1)
+
+This continuous watch is necessary because attackers do not rest and may strike at any time, even in the middle of the night, so the watch must never stop. It can be compared to a guard in a control room whose eyes are on all of the cameras at once, waiting for any unusual movement. Not every alert, however, represents a genuine attack; some are false alarms, and so a final step is required to tell them apart.(1)
+
+
+Threat detection is the analysis of alerts and data in order to separate a genuine threat from a false alarm. If every alert were treated as a disaster, time and effort would be wasted, yet if an important alert were ignored, a real attack might be missed.(2)
+
+
+Threat detection is therefore the skill that judges which alert is merely an ordinary error and which is a genuine threat requiring immediate action. It can be compared to a doctor examining test results, who distinguishes what is normal from what requires urgent attention. The same judgement is applied here, but to the security of systems. The table below summarises the four steps as a sequence.
+
+Step	What It Does	Comparison
+Logging	Records every event	Keeping a written record
+Alerting	Signals suspicious events automatically	A fire alarm
+Security Monitoring	Watches continuously, around the clock	A guard in a control room
+Threat Detection	Separates real threats from false alarms	A doctor reading test results
+This topic explained how detection works through a sequence of four steps.(1, 2)
+
+Logging records every event that occurs.
+Alerting automatically signals suspicious events.
+Security monitoring watches systems continuously, around the clock.
+Threat detection separates genuine threats from false alarms.
+These four steps do not operate on their own. They are carried out by a dedicated team in a dedicated place, the security operations centre, which is the subject of the final topic.(1)
+
+🔗
+(1)Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(2)National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+
+---
+L6:
+🖥️
+Level 2
+Topic 7
+Security Operations Center (SOC)
+By the end of this topic, the learner should be able to:
+
+Explain the purpose of a Security Operations Center.
+Describe the steps of the SOC workflow.
+Describe the main responsibilities of a security analyst.
+The previous topic explained that monitoring and detection are carried out by a dedicated team in a dedicated place. That place is called the Security Operations Center, abbreviated as the SOC, and it brings together everything studied in this week into a working defence. (2)
+
+This final topic of the course examines three matters: the purpose of a SOC, the way it works, and the responsibilities of the security analysts who staff it. It then draws together the whole of the course into a single picture. (2)
+
+A SOC is a central team whose task is to monitor, detect, and respond to threats around the clock. It can be imagined as the central control room of a large system, or as a fire station whose staff remain ready at all times and move at once when danger appears. (2)
+
+The first week described the goals of security as protecting, detecting, and responding, and the SOC is the place where these goals are carried out in practice. The previous topic introduced the SIEM, the system that gathers all events into one place, and the SIEM is the principal tool on which the SOC team works. Although the SIEM is a central platform in many SOCs, analysts also use tools such as Endpoint Detection and Response (EDR), threat intelligence platforms, vulnerability management tools, and case management systems to investigate and respond to security incidents. The way the team acts when an attack occurs follows a defined order, which is examined next. (4)
+
+
+The SOC operates through an ordered sequence of steps, and that sequence draws together everything studied during the week. The first step is monitoring, in which the team continuously watches the screens and the logs. The second step is detection, in which an alert is raised about something suspicious and the team takes notice. The third step is investigation, in which the team examines the alert to determine whether it is a genuine threat or a false alarm. (2)
+
+
+The fourth step is response, in which, if a genuine threat is confirmed, the team acts to stop the attack and limit its damage. The fifth step is recovery, in which, after the attack has been stopped, the systems are restored to their normal state and lessons are drawn to prevent the same attack from happening again. After recovery, security teams review the incident, identify lessons learned, update detection rules, and improve security controls to reduce the likelihood of similar attacks in the future. In this way, everything studied during the week operates together inside the SOC as a single, complete process. The table below summarises the workflow.
+
+Step	Action
+Monitoring	Continuously watch screens and logs
+Detection	Notice an alert about something suspicious
+Investigation	Decide whether the alert is a real threat
+Response	Stop the attack and limit the damage
+Recovery	Restore systems and learn from the event
+The security analyst is the person who works within the SOC and forms the first line of defence. The role carries several responsibilities. (2)
+
+The analyst continuously watches the screens and the alerts, sorts the alerts to decide which are important and which are false alarms, and investigates the important ones in order to understand what is happening. If a large attack is discovered, the analyst escalates it to a more specialised team, such as the incident response team, to deal with it. Security analysts also document incidents, communicate with other security teams, and help improve detection rules based on the incidents they investigate. The first week introduced the roles of the SOC analyst and the incident responder among the cybersecurity career tracks, and this topic shows how those roles operate together in practice. (2)
+
+
+This topic examined the Security Operations Center, where defence is put into practice. (2, 4)
+
+A SOC is a central team that monitors, detects, and responds to threats around the clock.
+The SOC workflow proceeds through monitoring, detection, investigation, response, and recovery.
+A security analyst watches, sorts, and investigates alerts, and escalates large attacks.
+The SOC brings together the technical, human, and procedural elements of defence into one process.
+This topic concludes the course. The first week established the foundations of cybersecurity and its career landscape, the second week examined the threats and attacks that endanger digital assets, and this third week explained how organizations defend themselves through controls, monitoring, and the work of the SOC. The learner now holds a complete picture of the field: what is protected, where the danger comes from, and how protection is achieved. (2)
+
+
+🔗
+(1) Andress, J. (2019). Foundations of information security: A straightforward introduction. No Starch Press.
+🔗
+(2) Whitman, M. E., & Mattord, H. J. (2021). Principles of information security (7th ed.). Cengage Learning.
+🔗
+(3) Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education.
+🔗
+(4) National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity (Version 1.1). U.S. Department of Commerce.
+🔗
+(5) International Organization for Standardization. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection - Information security management systems - Requirements. ISO.
+
+
+---
+
+
