@@ -195,9 +195,39 @@ if status == "generate":
     st.markdown(result)
 
 elif status == "read":
-    file_path = "results/summary_2026-07-21_02-43-05.md"
+    st.markdown("# :rainbow[Cybersecurity & Digital Arts Revision Notes]")
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        md = f.read()
+
+    tab1, tab2, tab3, tab4 = st.tabs(["🛡️ Week 11", "👾 Week 12", "⚔️ Week 13", "🎨 Week 14"])
+
+    with tab1:
+        file_path = "results/final_summary_w11.md"
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            md = f.read()
+        
+        st.markdown(md)
     
-    st.markdown(md)
+    with tab2:
+        file_path = "results/final_summary_w12.md"
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            md = f.read()
+        
+        st.markdown(md)
+    
+    with tab3:
+        file_path = "results/final_summary_w13.md"
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            md = f.read()
+        
+        st.markdown(md)
+    
+    with tab4:
+        file_path = "results/final_summary_w14.md"
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            md = f.read()
+        
+        st.markdown(md)
