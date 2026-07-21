@@ -9,6 +9,17 @@ st.set_page_config(
     layout="centered",
 )
 
+st.markdown(
+    """
+    <style>
+        .stMarkdown div p {
+            font-size: 16.5px !important;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 status = "read"
 
 if status == "generate":
